@@ -22,11 +22,17 @@ Use it. Share it. And if something's changed since I last updated it, drop me a 
 ## 📑 Table of Contents
 
 1. [🇹🇭 Thailand](#-thailand)
+   - [🍜 Food & Eating](#-food--eating)
 2. [🇯🇵 Japan](#-japan)
+   - [🍜 Food & Eating](#-food--eating-1)
 3. [🇮🇩 Bali (Indonesia)](#-bali-indonesia)
+   - [🍜 Food & Eating](#-food--eating-2)
 4. [🇸🇬 Singapore](#-singapore)
+   - [🍜 Food & Eating](#-food--eating-3)
 5. [🇭🇰 Hong Kong](#-hong-kong)
+   - [🍜 Food & Eating](#-food--eating-4)
 6. [🇰🇷 South Korea](#-south-korea)
+   - [🍜 Food & Eating](#-food--eating-5)
 7. [🎒 Universal Packing Guide for Tattoo Artists Flying in Asia](#-universal-packing-guide-for-tattoo-artists-flying-in-asia)
 8. [🤖 Using AI to Prepare for Each Trip](#-using-ai-to-prepare-for-each-trip)
 9. [📬 About the Author](#-about-the-author)
@@ -231,6 +237,45 @@ Check [World Tattoo Events](https://www.worldtattooevents.com/asia/thailand-tatt
 - Budget: ~฿900–1,800/day (~$25–50) — hostel/guesthouse, local food, transit.
 - Mid-range: ~฿2,150–3,600/day (~$60–100) — private room, mix of meals.
 - For context, studio hourly rates for clients are typically ฿2,000–3,000/hour.
+
+### 🍜 Food & Eating
+
+**Top 5 Local Foods to Try**
+
+| Dish | What It Is | Where to Find It | Price | Why Bother |
+|------|------------|-----------------|-------|------------|
+| **Pad Thai** | Stir-fried rice noodles with egg, tofu or shrimp, peanuts, bean sprouts, and lime | Thipsamai (282 Maha Chai Rd, Old Town) — legendary; any street stall | 80–150 THB (~$2.50–$4.50) | The definitive Bangkok dish — properly made at Thipsamai with egg-wrapped noodles, it's unlike any pad Thai you've had elsewhere |
+| **Green Curry (Kaeng Kiew Wan)** | Fragrant coconut milk curry with Thai basil, bamboo shoots, and chicken or beef, over jasmine rice | Khua Apsorn (Sukhumvit area); any mid-range Thai restaurant | 80–180 THB (~$2.50–$5.50) | Creamy, aromatic, and not necessarily that spicy — one of the most satisfying things you'll eat in Thailand |
+| **Khao Man Gai** | Poached chicken over rice cooked in chicken broth, with clear soup and ginger-garlic dipping sauce | Street stalls citywide; Terminal 21 food court | 50–80 THB (~$1.50–$2.50) | Bangkok's ultimate comfort food — mild, tender, and enormously popular with locals and expats alike |
+| **Tom Yum Soup** | Hot and sour broth with lemongrass, galangal, kaffir lime leaves, mushrooms, and usually shrimp | Any Thai restaurant; Jeh O Chula on Chula Soi 4 does a famous version | 80–220 THB (~$2.50–$6.50) | The most iconic Thai flavour combination — hot, sour, herby, deeply satisfying |
+| **Mango Sticky Rice (Khao Niao Mamuang)** | Warm glutinous sticky rice with fresh mango and sweet coconut cream poured over the top | Mae Varee (663 Sukhumvit Soi 57); fruit stalls at Chatuchak Market | 60–120 THB (~$1.75–$3.50) | Not cloyingly sweet, uses perfectly ripe mango — a dessert almost everyone loves on first bite |
+
+**For the Less Adventurous**
+
+Bangkok is one of the easiest Asian cities for cautious eaters. Sukhumvit Road from BTS Nana to Phrom Phong is lined with quality Western options, and I've watched plenty of first-timers arrive terrified of the food and leave wishing they'd tried more.
+
+- **Sukhumvit as your food base:** The strip from Soi 11 to Soi 55 (Thonglor) has an enormous range of Western restaurants — American, Italian, Mexican, burgers, steakhouses. This is where most expat artists end up eating their first few nights.
+- **Terminal 21 food court (Asoke BTS):** Budget-friendly indoor court with both Thai and international options. Pad Thai here goes for 35–65 THB — cheap, clean, air-conditioned.
+- **MBK Center food courts:** Similar deal, mix of Thai and international stalls.
+- **Burger chains:** Texas Chicken, KFC, McDonald's, Burger King, and Shake Shack (in EmQuartier mall) all operate widely. A meal at any of these runs 150–250 THB.
+- **Japanese food:** Bangkok has an exceptional density of Japanese restaurants — ramen, sushi, tonkatsu — often better quality than back home. Ichiban Ramen and the tonkatsu spots around Thonglor are genuinely good. If you eat Japanese food, you'll eat very well here.
+- **7-Eleven and Family Mart:** Everywhere, open 24/7. Stock sandwiches, hot dogs, onigiri, cup noodles, protein bars, and bottled drinks. A decent backup meal runs 40–80 THB.
+- **Local dish that feels familiar:** Khao Man Gai — poached chicken rice — tastes like a mild, well-seasoned roast chicken dinner. Approachable for basically anyone.
+
+**Practical Tips for Working Artists**
+
+- **Cheap eating near studio areas:** If you're working in Silom or Ari, food courts in nearby office buildings or malls serve cheap, consistent Thai food at lunch for 40–80 THB a dish. Avoid English-only menus with photos on the board near tourist strips — they charge 3–4x the local price. Yaowarat (Chinatown) is 20–30 minutes from most central studios and has some of the city's best late-night eating at genuinely local prices.
+- **Delivery apps:** **LINE MAN Wongnai** and **GrabFood** are the two dominant apps. GrabFood is easier for foreigners — English interface, international card support. LINE MAN is used more by locals and covers more neighbourhood vendors. Both deliver within 30–40 minutes in central areas and are open 24 hours in central Bangkok.
+- **Dietary notes:** Vegetarian food is available but trickier than it looks — many dishes contain fish sauce or oyster sauce even when they seem vegetarian. Look for **"jay" (เจ) stalls** (strict Buddhist vegan cooking, no animal products at all) — these are found citywide. Shellfish allergies need active management; Thai cooking uses shrimp paste in many dish bases.
+- **Tap water:** **Do not drink tap water in Bangkok.** Buy bottled water from 7-Eleven (10–15 THB for 1.5L) or ask for filtered water. Ice at established restaurants is from purified sources and is safe.
+
+**Meal Budget**
+
+| Meal Type | Local Currency | USD (approx.) |
+|-----------|---------------|---------------|
+| Street food / food court | 60–150 THB | ~$2–$4.50 |
+| Mid-range Thai restaurant | 200–500 THB | ~$6–$15 |
+| Western restaurant / expat area | 400–900 THB | ~$12–$27 |
 
 ### 🎨 Cultural Sensitivities
 
@@ -470,6 +515,46 @@ Japan has one of the best luggage storage networks in the world. You'll be fine.
 
 **Power:** Japan uses 100V, Type A plugs. Most modern devices handle 100–240V, but verify. Bring adapters for European equipment.
 
+### 🍜 Food & Eating
+
+I'll be honest with you: Japan might have the best food of any country in this guide. It's not just that the high-end restaurants are brilliant — it's that the convenience stores sell better sandwiches than most European cafes, and a ¥600 bowl of gyudon from a chain restaurant is genuinely satisfying. Budget eating in Japan is a pleasure, which makes a big difference on a long working trip.
+
+**Top 5 Local Foods to Try**
+
+| Dish | What It Is | Where to Find It | Price | Why Bother |
+|------|------------|-----------------|-------|------------|
+| **Ramen** | Noodles in a rich broth (soy, miso, or pork-bone), topped with chashu pork, soft-boiled egg, nori | Any ramen shop citywide; Ichiran (multiple locations) for a solo booth experience | ¥800–¥1,200 (~$5.50–$8) | The broth takes 10+ hours to make — what seems simple is an obsessively crafted dish that will reset your expectations |
+| **Sushi (Kaiten-zushi)** | Vinegared rice topped with raw or cooked fish, on a rotating conveyor belt | Sushiro, Kura Sushi chains — Tokyo-wide; also Tsukiji outer market | ¥100–¥300 per plate (2 pieces) | Conveyor belt sushi in Japan is genuinely excellent — fresh daily, cheap, and you only take what looks good |
+| **Tonkatsu** | Thick breaded and deep-fried pork cutlet, with shredded cabbage, rice, and rich brown sauce | Tonkatsu Maisen (Aoyama), Saboten (chain, 20+ locations); department store basement food halls | ¥1,000–¥1,800 (~$6.70–$12) | Incredibly satisfying and very familiar to Western palates — essentially a premium schnitzel done to obsessive Japanese precision |
+| **Gyudon (Beef Bowl)** | Thinly-sliced beef simmered in sweet soy sauce, served over steamed rice | Yoshinoya, Sukiya, Matsuya chains — everywhere, 24 hours | ¥430–¥600 (~$2.90–$4) | Tokyo's fast food staple — cheap, filling, genuinely delicious, served in under three minutes |
+| **Yakitori** | Chicken skewers grilled over charcoal, every part of the bird, with salt or tare sauce | Under railway bridges near Shinjuku or Yurakucho; izakaya pubs citywide | ¥150–¥400 per skewer (~$1–$2.70) | Smoky, chargrilled perfection eaten casually with a beer — the ideal end-of-work-day meal |
+
+**For the Less Adventurous**
+
+Tokyo is arguably the world's easiest city for picky eaters. The food culture prizes quality and precision at every price point — you can eat brilliantly here without ever venturing outside your comfort zone.
+
+- **Convenience store meals (konbini):** 7-Eleven, Lawson, and FamilyMart sell genuinely excellent ready meals — sandwiches (egg salad, ham and cheese, katsu sando), rice balls (onigiri), bento boxes, hot dogs, pastries. A full meal costs ¥400–¥700. FamilyMart fried chicken is considered a local institution.
+- **Gyudon chains (Yoshinoya, Sukiya):** Cheap, fast, filling beef over rice, open 24/7 citywide. Familiar enough for anyone who eats beef.
+- **Mos Burger / Freshness Burger / McDonald's:** Quality burger chains throughout Tokyo. Mos Burger is a step above McDonald's and worth trying. A meal runs ¥700–¥900.
+- **Japanese curry (kare raisu):** Thick, mild, sweet-savoury curry over rice — nothing like Indian curry. Most non-Japanese people love it immediately. Coco Ichibanya is the national chain, around ¥700–¥1,200.
+- **Tonkatsu:** As listed above — breaded pork cutlet is extremely Western-palate-friendly and available everywhere at every price point.
+- **Shibuya / Shinjuku Western zones:** Both areas have American chains (Shake Shack, Pizza Express, TGI Friday's), international dining floors in department stores, and everything from Italian to Mexican.
+
+**Practical Tips for Working Artists**
+
+- **Eating near studio districts:** Tokyo's tattoo studios cluster in Shimokitazawa, Shinjuku, Shibuya, and Ebisu. All of these areas have dense ramen, gyudon, and soba options under ¥1,000. Shimokitazawa in particular has cheap izakayas and curry shops ideal for a quick dinner after a long session.
+- **Delivery apps:** **Uber Eats** and **Demae-can** are the primary apps. Both work in English and accept international cards. Uber Eats runs 7am–2am in most of Tokyo; delivery fees add ¥150–¥300. Note: restaurants on delivery apps often charge 10–20% more than in-store prices.
+- **Dietary notes:** Vegetarians will struggle — Japanese "vegetarian" dishes often contain fish stock (dashi). Look for "vegan" explicitly marked, or Buddhist shojin ryōri restaurants. Gluten is in soy sauce, which is in nearly everything. Halal is limited but growing — the Halal Gourmet Japan app helps locate certified restaurants.
+- **Tap water:** **Fully safe to drink.** Tokyo tap water meets some of the highest purity standards globally. Drink freely — it saves money and plastic.
+
+**Meal Budget**
+
+| Meal Type | Local Currency | USD (approx.) |
+|-----------|---------------|---------------|
+| Street food / convenience store / gyudon chain | ¥500–¥800 | ~$3.50–$5.50 |
+| Mid-range restaurant (ramen, sushi, izakaya) | ¥1,200–¥3,500 | ~$8–$23 |
+| Western restaurant / steak / Italian | ¥3,000–¥7,000 | ~$20–$47 |
+
 ### 🎨 Cultural Sensitivities
 
 This is absolutely critical in Japan. The tattoo-yakuza association is real and affects your daily life:
@@ -696,6 +781,46 @@ The Bali Tattoo Expo is the island's primary event. The 9th edition ran in Augus
 - Monthly: USD 800–1,800 for a comfortable solo lifestyle.
 - Local warung meal: $1–3. Western restaurant: $15–30.
 
+### 🍜 Food & Eating
+
+Bali is an interesting one for food. The local Balinese cooking is genuinely excellent and worth seeking out, but Canggu and Seminyak have also become some of the most developed cafe scenes in Southeast Asia — which means that even if you never eat anything more adventurous than smashed avocado on sourdough, you'll eat extremely well. I know artists who come to Bali and barely touch local food, and I know ones who eat warung every single meal. Both approaches work fine here.
+
+**Top 5 Local Foods to Try**
+
+| Dish | What It Is | Where to Find It | Price | Why Bother |
+|------|------------|-----------------|-------|------------|
+| **Babi Guling** | Whole spit-roasted suckling pig seasoned with turmeric, ginger, and spices, with rice and crackling | Warung Babi Guling Ibu Oka (Ubud); local warungs in Seminyak | IDR 40,000–80,000 (~$2.50–$5) | Balinese celebration food — the crackling is extraordinary and the meat is aromatic and tender in a way that's hard to describe until you've tried it |
+| **Nasi Campur** | Steamed rice surrounded by small portions of various side dishes — fried chicken, tempeh, vegetables, sambal | Any warung throughout Canggu and Seminyak | IDR 25,000–60,000 (~$1.50–$3.80) | The everyday local meal — you eat what's on display, it's always fresh, and it's the cheapest real food on the island |
+| **Mie Goreng / Nasi Goreng** | Stir-fried noodles or rice with egg, vegetables, and chicken, shrimp, or tofu; served with prawn crackers | Every single restaurant and warung on the island | IDR 30,000–80,000 (~$2–$5) | The most universally loved Indonesian dish — familiar, satisfying, and even the most cautious eaters tend to find it immediately appealing |
+| **Sate Lilit** | Balinese minced fish or chicken satay with coconut, lemongrass, and spices, wrapped around bamboo sticks and grilled | Local warungs and tourist restaurants in Seminyak/Canggu | IDR 30,000–60,000 (~$1.90–$3.80) | Lighter and more aromatic than regular satay — the coconut and lemongrass make it distinctly Balinese |
+| **Gado-Gado** | Blanched vegetables, tofu, tempeh, and hard-boiled egg with rich peanut sauce | Made's Warung (Seminyak); any Indonesian restaurant | IDR 35,000–70,000 (~$2.20–$4.40) | The peanut sauce alone is worth it — hearty, nutty, and surprisingly filling |
+
+**For the Less Adventurous**
+
+Canggu and Seminyak are packed with Western cafes — this is where much of Bali's digital nomad and expat community lives, and the food scene reflects it. You will not struggle.
+
+- **Seminyak cafe strip:** Sisterfields (Melbourne-style brunch, smashed avo, burgers), Sea Circus (American brunch, burritos), Revolver Espresso (quality coffee, Aussie brunch menu), and KYND (vegan bowls, smoothies) all serve recognisable Western food. Expect IDR 80,000–180,000 (~$5–$11) per dish.
+- **Canggu cafes:** Crate Cafe (industrial brunch spot, IDR 50,000 for most items), Hungry Bird, and Satu Satu all serve Western-style breakfasts and lunches. Many have air conditioning and decent WiFi.
+- **Nasi Goreng and Mie Goreng:** Even the most cautious eaters tend to enjoy these — fried rice and fried noodles with egg, on every single menu at every restaurant including Western-facing ones. A solid bridge dish.
+- **Pizza and pasta:** Widely available throughout Seminyak at mid-range tourist restaurants. Quality is generally decent.
+- **Supermarkets:** **Canggu Deli**, **Bintang Supermarket** (Seminyak — most stocked), and **Circle K** carry Western goods — imported cheese, bread, breakfast cereal, canned goods.
+- **Circle K and Indomaret:** The Indonesian equivalent of 7-Eleven. Available everywhere. Instant noodles, snacks, bottled water, and basic groceries.
+
+**Practical Tips for Working Artists**
+
+- **Eating near studios:** Most Canggu tattoo studios are on or near Jalan Batu Bolong and Jalan Pantai Berawa. Warung Sika (Jl Tanah Barak) does excellent nasi campur from IDR 33,000. For something faster, any Circle K or Indomaret is a two-minute walk from most studios. The whole area has cafes open from 7am.
+- **Delivery apps:** **GoFood** (part of Gojek) and **GrabFood** are the two main apps. Both work in English, accept cards, and cover all of Canggu and Seminyak. Gojek/GoFood is slightly more popular locally. ShopeeFood is a third option. All three deliver most items within 30 minutes. Delivery fees from IDR 5,000–15,000 (~$0.30–$1).
+- **Dietary notes:** Bali has one of Asia's best scenes for vegetarian and vegan food — the Canggu/Seminyak cafe culture caters heavily to plant-based diets. However, traditional Balinese food (babi guling, lawar) is heavily pork-based. For halal food, look for certified warungs — Warung Jawa Bu Sri in Canggu is halal-certified. Nut allergies need active attention: peanut sauce is very common.
+- **Tap water:** **Do not drink tap water in Bali under any circumstances.** This applies in hotels, villas, and homes alike. Buy bottled Aqua or Club (the trusted local brands) from any minimart — IDR 4,000–8,000 for 1.5L. Most cafes serve filtered water, but confirm before drinking.
+
+**Meal Budget**
+
+| Meal Type | Local Currency | USD (approx.) |
+|-----------|---------------|---------------|
+| Local warung / street food | IDR 20,000–50,000 | ~$1.25–$3 |
+| Mid-range restaurant / tourist warung | IDR 70,000–150,000 | ~$4.50–$9.50 |
+| Western cafe / brunch restaurant | IDR 120,000–300,000 | ~$7.50–$19 |
+
 ### 🎨 Cultural Sensitivities
 
 - **Hindu culture:** Bali is a Hindu island within a majority-Muslim country. Respect for ceremonies, temples, and sacred sites is non-negotiable.
@@ -897,6 +1022,46 @@ Both feature international artists and are excellent networking events. For 2026
 - Mid-range: SGD 150–250/day (~$110–185 USD).
 - **Hawker centres** are your best friend: meals from SGD 3–8. Every neighbourhood has at least one. Some of the best food in the world for the price.
 - Singapore is one of Asia's most expensive cities. Budget accordingly.
+
+### 🍜 Food & Eating
+
+Singapore punches well above its weight as a food city. The hawker centre system is genuinely one of the great eating institutions in the world — cheap, clean, absurdly diverse, and run by people who've been perfecting two or three dishes for decades. I'd eat hawker food every day here without complaint. It's also one of the few cities in Asia where "I'll just grab something Western" is never a problem, because the Western options are just as abundant and just as good.
+
+**Top 5 Local Foods to Try**
+
+| Dish | What It Is | Where to Find It | Price | Why Bother |
+|------|------------|-----------------|-------|------------|
+| **Hainanese Chicken Rice** | Silky poached chicken over fragrant rice cooked in chicken stock, with chili sauce and ginger paste | Tian Tian, Maxwell Food Centre (Chinatown); Hawker Chan, Chinatown Complex | SGD $5–$9 (~$3.70–$6.70) | Singapore's national dish — Tian Tian's version famously beat Gordon Ramsay in a cook-off; the rice alone is worth ordering |
+| **Laksa** | Thick coconut milk soup with rice noodles, prawns, fishcake, and cockles in a spicy Peranakan broth | 328 Katong Laksa (multiple outlets); any major hawker centre | SGD $7–$10 (~$5.20–$7.40) | Creamy, rich, and deeply savoury — one of Southeast Asia's most complex and satisfying noodle soups |
+| **Char Kway Teow** | Flat rice noodles stir-fried at high heat with egg, bean sprouts, Chinese sausage, cockles, and dark soy sauce | Outram Park Fried Kway Teow, Hong Lim Market & Food Centre | SGD $4.50–$6 (~$3.30–$4.40) | The smoky "wok hei" flavour is almost impossible to replicate elsewhere — this is a dish that belongs only in Singapore |
+| **Satay** | Marinated chicken, beef, or mutton skewers grilled over charcoal, with peanut sauce, onion, and cucumber | Satay Street at Lau Pa Sat (evening only); Chomp Chomp Food Centre | SGD $10–$20 for a set (~10 sticks) | Lau Pa Sat's outdoor satay street is one of the great dining experiences in Asia — the peanut sauce is exceptional |
+| **Bak Kut Teh** | Pork ribs slow-simmered in a peppery herbal broth, with rice and fried dough | Song Fa Bak Kut Teh (New Bridge Road, multiple locations); Ya Hua (Havelock Road) | SGD $10–$18 (~$7.40–$13.30) | The peppery Teochew broth is warming and restorative — Song Fa gives unlimited broth refills; ideal after a long session |
+
+**For the Less Adventurous**
+
+Singapore is one of the most food-diverse cities in Asia. Finding familiar food here is trivially easy.
+
+- **Hawker centre "Western stalls":** A uniquely Singaporean phenomenon — Western food hawker stalls selling chicken chops, pork chops, fish and chips, and mixed grills for SGD $6–$10. Real, satisfying Western comfort food at hawker prices. Try Apollo Western Food (Hougang) or Chef Hainanese Western Food (Tanglin Halt Food Centre).
+- **Orchard Road / Clarke Quay / Robertson Quay:** These central areas have extensive Western dining — Italian, French, steakhouses, American casual. Robertson Quay is a popular expat dining strip with reliable restaurants.
+- **International chains:** Shake Shack, Hard Rock Cafe, Tony Roma's, and every major fast food brand operates in Singapore.
+- **Japanese food:** Singapore has extraordinary Japanese restaurants at all price points. Conveyor-belt sushi is everywhere. If you eat Japanese food, you'll eat very well here.
+- **Cold Storage and FairPrice supermarkets:** Singapore's major chains stock a full range of Western and international products. Cold Storage in particular has extensive imported goods.
+- **Local dishes that feel familiar:** Hainanese Chicken Rice (mild, approachable), Kaya Toast (butter-and-coconut-jam toast with soft-boiled eggs — an excellent breakfast), Roti Prata (flaky Indian-style flatbread with curry dip, similar to a paratha).
+
+**Practical Tips for Working Artists**
+
+- **Eating near studio areas:** Singapore's tattoo studios cluster in Queenstown, Tanjong Pagar, and Bugis. All are within 10 minutes of an MRT station with extensive food options. Tanjong Pagar Plaza has an excellent hawker centre in the basement — for cheap and quick, any hawker centre beats any food court for value.
+- **Delivery apps:** **GrabFood** and **Foodpanda** are the dominant apps — both work in English and accept international cards. Note that Deliveroo exited Singapore in 2025. WhyQ is a newer option. All major fast food chains deliver. Delivery fees vary by distance but are typically SGD $1–$4.
+- **Dietary notes:** Singapore is very allergen and dietary-restriction aware by Southeast Asian standards — most menus label halal/non-halal, and vegetarian options are common. Halal food is widely available (look for MUIS-certified stalls). Most hawker food contains pork or shellfish — always ask if you have restrictions.
+- **Tap water:** **Fully safe to drink directly from the tap.** Singapore's water meets WHO standards. Free tap water isn't always provided at restaurants — bottled water is typically SGD $1–$2, but if you have a bottle with you, fill it from any tap.
+
+**Meal Budget**
+
+| Meal Type | Local Currency | USD (approx.) |
+|-----------|---------------|---------------|
+| Hawker centre meal | SGD $4–$9 | ~$3–$6.70 |
+| Mid-range restaurant (food court, casual dining) | SGD $15–$30 | ~$11–$22 |
+| Western / international restaurant | SGD $30–$70 | ~$22–$52 |
 
 ### 🎨 Cultural Sensitivities
 
@@ -1107,6 +1272,46 @@ Hong Kong is a free port with **essentially zero tariffs on most goods**. This i
 - Budget: HK$700–1,000/day (~$90–128 USD) — hostels, cha chaan teng meals, public transport.
 - Mid-range: HK$1,200–1,800/day (~$155–230 USD) — private room, mix of meals.
 - Local cha chaan teng meal: HK$40–80. Mid-range restaurant: HK$120–250+.
+
+### 🍜 Food & Eating
+
+Hong Kong's food scene is extraordinary and I don't think it gets the credit it deserves internationally. The Cantonese cooking here is some of the finest in the world — dim sum in Hong Kong is genuinely a different experience from anywhere else. But what I love equally is the cha chaan teng culture: those hybrid Hong Kong cafes where you can get thick milk tea, egg tarts, and baked pork chop rice at any hour, for almost nothing, surrounded by locals reading the morning paper. If you eat at one proper cha chaan teng every day of your stay, you'll leave happy.
+
+**Top 5 Local Foods to Try**
+
+| Dish | What It Is | Where to Find It | Price | Why Bother |
+|------|------------|-----------------|-------|------------|
+| **Wonton Noodles** | Springy egg noodles in a clear pork-and-fish-bone broth, topped with plump shrimp-and-pork wontons | Mak's Noodle (77 Wellington St, Central); Tsim Chai Kee (Michelin Bib Gourmand, Central) | HKD $38–$55 (~$5–$7) | The wontons are silky and the broth is extraordinary — this is the dish Hong Kong is proudest of |
+| **Dim Sum** | Small steamed or fried dumplings, buns, and pastries in rounds — har gow (shrimp), siu mai (pork), char siu bao (BBQ pork bun) | Tim Ho Wan (multiple locations, Michelin-starred dim sum chain); any traditional yum cha restaurant | HKD $60–$150 per person (~$7.70–$19) | Dim sum in Hong Kong is to dumplings what Tokyo is to sushi — the absolute best in the world at every price point |
+| **Roast Meats (Char Siu / Roast Duck)** | Cantonese BBQ pork (char siu — sweet, lacquered, tender) and roast duck, over rice or with noodles | Any roast meat shop (siu mei) in Central or Wan Chai — look for hanging meats in the window | HKD $45–$80 per plate (~$5.80–$10.30) | The char siu in Hong Kong is in a different league — caramelised sticky glaze, impossibly tender pork |
+| **Curry Fish Balls** | Bouncy fish balls on skewers, simmered in a mild fragrant curry sauce | Street stalls throughout Wan Chai; any cha chaan teng | HKD $10–$20 (~$1.30–$2.60) | The quintessential Hong Kong street snack — they taste better than they sound, and they're everywhere |
+| **Cha Chaan Teng (HK Milk Tea + Toast)** | Hong Kong-style cafe serving silky "pantyhose" milk tea (strongly-brewed Ceylon tea with evaporated milk) with thick buttered toast and egg | Lan Fong Yuen (2 Gage St, Central — credited with inventing Hong Kong milk tea); any local cha chaan teng | HKD $20–$40 (~$2.60–$5.10) for tea and toast set | Cha chaan tengs are a uniquely Hong Kong institution — the milk tea is smooth and rich in a way that Western tea never achieves |
+
+**For the Less Adventurous**
+
+Central and Lan Kwai Fong are extremely foreigner-friendly dining districts. If you stick to these areas, you'll never be short of familiar options.
+
+- **Lan Kwai Fong (LKF) and SoHo:** This bar and restaurant district above Central MTR has American bars, Italian restaurants, Mexican food, and burger joints. Heavily expat-oriented. Prices are mid-range to high.
+- **IFC Mall and Pacific Place:** Both malls have extensive international dining — sushi, Italian, American, Thai. Reliable quality, easy to navigate.
+- **American chains:** McDonald's, KFC, and Pizza Hut all deliver in Hong Kong. Pizza Hut delivery is a go-to for late nights and worth knowing about.
+- **Cha chaan teng "Western" food:** Hong Kong cha chaan tengs serve a unique East-meets-West fusion — baked pork chop with macaroni and tomato soup, French toast fried in egg batter, club sandwiches. It's not quite Western, but it's comforting and familiar-adjacent in a way that most first-timers find immediately likeable.
+- **Wellcome and ParknShop supermarkets:** The two main chains throughout Hong Kong Island. Both stock Western cereals, dairy, bread, and international products.
+- **Japanese food:** Hong Kong has outstanding Japanese restaurants across the central areas. A reliable fallback for anyone who doesn't want to eat Cantonese.
+
+**Practical Tips for Working Artists**
+
+- **Eating near studio areas:** Most Hong Kong tattoo studios cluster in Wan Chai, Causeway Bay, and Sheung Wan. The Bowrington Road Cooked Food Market (Wan Chai) is a hidden gem — an upstairs cooked food market open 6am–2am with excellent, cheap local food at around HKD 50–100 per person. Wan Chai has dense local restaurant coverage at all price points.
+- **Delivery apps:** **Foodpanda** dominates the Hong Kong delivery market with around 70% share after Deliveroo exited in April 2025. **Keeta** (backed by Chinese tech giant Meituan) launched in 2023 and has been aggressively expanding with promotions and free delivery incentives — worth downloading for the deals alone. Standard delivery fees are HKD $15+.
+- **Dietary notes:** Cantonese cuisine is heavily non-vegetarian — pork, seafood, and shellfish appear in nearly all dishes including soups and sauces. Dedicated vegetarian restaurants exist but are not the norm. Halal options are limited in Central/Wan Chai — halal-certified restaurants are mostly in Kowloon. Shellfish allergies need active management here.
+- **Tap water:** **Technically safe, but most locals boil it.** The treatment plant water meets international standards, but old building pipes can affect quality. In hotels and modern buildings, drinking it directly is generally fine. Watson's water (available everywhere, HKD $3–$5 for 500ml) is the practical, safe default.
+
+**Meal Budget**
+
+| Meal Type | Local Currency | USD (approx.) |
+|-----------|---------------|---------------|
+| Cha chaan teng / roast meat shop / street food | HKD $40–$80 | ~$5–$10 |
+| Mid-range Cantonese restaurant / noodle shop | HKD $100–$250 | ~$13–$32 |
+| Western restaurant / LKF area | HKD $250–$600 | ~$32–$77 |
 
 ### 🎨 Cultural Sensitivities
 
@@ -1340,6 +1545,46 @@ The Korea Tattoo Convention is the primary domestic event. Booth options: KRW 60
 - Budget: ~$50/day — guesthouse/Airbnb, local food, transit.
 - Mid-range: ~$100–137/day.
 - Food is affordable: typical lunch KRW 10,000–15,000 (~$7–11). Korean BBQ dinner: KRW 20,000–40,000/person.
+
+### 🍜 Food & Eating
+
+Seoul is a seriously underrated food city. Korean BBQ obviously gets all the attention — and it deserves it — but the rest of the food is just as good. The convenience stores here are probably the best in Asia, the street food in Hongdae is genuinely excellent, and Itaewon solves every Western craving you'll ever have. After a long session, finding something good to eat in Seoul requires zero effort.
+
+**Top 5 Local Foods to Try**
+
+| Dish | What It Is | Where to Find It | Price | Why Bother |
+|------|------------|-----------------|-------|------------|
+| **Korean BBQ (Samgyeopsal / Galbi)** | Pork belly (samgyeopsal) or marinated beef short ribs (galbi) grilled tableside, wrapped in lettuce with garlic and dipping sauce | Saemaul Restaurant (Hongdae); MokGuMung BBQ (Hongdae); Maple Tree (Itaewon) | KRW 15,000–30,000 per person (~$11–$22) | One of the world's great communal eating experiences — the grill is at your table and the parade of free side dishes (banchan) never stops |
+| **Bibimbap** | Rice topped with seasoned vegetables, minced beef, a fried egg, and gochujang (spicy red pepper paste), mixed together before eating | Any Korean restaurant; Myeongdong Kyoja near Hongdae | KRW 11,000–16,000 (~$8–$12) | Colourful, filling, adaptable — ask for it mild or order dolsot bibimbap in a hot stone bowl for crispy rice at the bottom |
+| **Dakgalbi** | Spicy stir-fried chicken with rice cakes, cabbage, and gochujang sauce, cooked in a wide pan at the table | Hongdae Dakgalbi (directly in Hongdae) — one of the best-rated spots in the area | KRW 15,000–22,000 per person (~$11–$16) | Hugely popular in Hongdae specifically — adding cheese and mixing it with rice at the end transforms it completely |
+| **Korean Fried Chicken (Chimaek)** | Double-fried crispy chicken — often glazed with soy-garlic or spicy-sweet sauce — always eaten with beer | Kyochon Chicken (Hongdae branch); Bhc; Nene Chicken — chains throughout both areas | KRW 20,000–28,000 for a half-chicken (~$14.50–$20) | Korean fried chicken is categorically superior to most Western versions — the double-fry creates a shatteringly crisp coat that stays crunchy |
+| **Tteokbokki** | Thick chewy rice cakes in a spicy-sweet gochujang sauce, usually with fish cakes and boiled egg | Street stalls throughout Hongdae and Itaewon | KRW 3,000–6,000 for a portion (~$2.20–$4.40) | The ultimate Korean street snack — chewy, sticky, saucy, and genuinely moreish; the spice level is real but manageable |
+
+**For the Less Adventurous**
+
+Itaewon was specifically built for this situation. It's Seoul's international district and it developed around expat and military demand for Western food — which means the variety is genuine, not token.
+
+- **Itaewon as a fallback:** The main drag (behind Hamilton Hotel, near Exit 2) has authentic Mexican, Indian, Middle Eastern, American BBQ, French, and Italian. If you're craving a proper burger or a real curry, Itaewon has it.
+- **Hongdae international options:** The university district has a large number of fusion and international restaurants aimed at young Koreans. Italian, American, and Japanese food all have solid representations.
+- **Korean fried chicken:** Even the most cautious eaters tend to be converted immediately. It's chicken, it's crispy, and it's excellent. Kyochon in Hongdae is a reliable starting point.
+- **Korean BBQ:** Although it's a cooking experience, the actual food is just grilled meat and vegetables — extremely accessible for anyone who eats meat.
+- **Bibimbap without the spice:** Ask for the gochujang sauce on the side, or order "non-spicy bibimbap" where possible.
+- **GS25, CU, 7-Eleven, emart24:** South Korea's convenience stores are outstanding. Triangular kimbap (seaweed rice rolls), sandwiches, hot snacks, instant noodles, and a full range of Western snacks — a solid meal costs KRW 3,000–7,000 (~$2–$5).
+
+**Practical Tips for Working Artists**
+
+- **Eating near studio areas:** Hongdae has dense eating on every street — cheap student-friendly restaurants, street food stalls, and fast food chains alongside quality sit-down options. Most street food in Hongdae runs KRW 3,000–8,000 per item. Korean BBQ on the back streets can be as cheap as KRW 12,000 per person for lunch.
+- **Delivery apps:** **Baemin** (Baedal Minjok) is the dominant app with the largest restaurant selection. **Coupang Eats** is the main competitor and known for faster delivery (single-order-per-driver model). **Yogiyo** is a third option. Note: all three apps are primarily in Korean — Baemin has some English support but using a translation layer is common for foreigners. International cards generally work.
+- **Dietary notes:** Korean cuisine is heavily meat and seafood-oriented. Strict vegetarians will struggle — even kimchi traditionally contains fermented seafood (jeotgal). Vegan Korean restaurants exist in Itaewon and Hongdae (ALT.a in Itaewon serves vegan Korean fusion). Halal food is available along the Itaewon main street.
+- **Tap water:** **Safe to drink.** Seoul's tap water (marketed as "Arisu") meets extremely stringent standards — the city tests for 357 substances, far exceeding WHO guidelines. Most locals use a water purifier out of habit, but the water is genuinely safe from the tap.
+
+**Meal Budget**
+
+| Meal Type | Local Currency | USD (approx.) |
+|-----------|---------------|---------------|
+| Street food / convenience store / gimbap | KRW 3,000–10,000 | ~$2.20–$7.30 |
+| Mid-range Korean restaurant (BBQ, bibimbap, fried chicken) | KRW 12,000–30,000 | ~$8.75–$22 |
+| Western / international restaurant (Itaewon area) | KRW 25,000–60,000 | ~$18–$44 |
 
 ### 🎨 Cultural Sensitivities
 
