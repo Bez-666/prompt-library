@@ -37,18 +37,140 @@ Use it. Share it. And if something's changed since I last updated it, drop me a 
 
 Thailand is where I live, so I'll start here. It's the most popular destination in Asia for guest-spotting tattoo artists, and for good reason — the cost of living is low, the tattoo scene is massive, and the clients are international. But don't mistake "relaxed vibe" for "no rules."
 
-### ✈️ Visa & Work Permit Rules
+### ✈️ Immigration & Visa Guide
 
-Thailand requires a **Non-Immigrant B Visa** plus a **Work Permit** for any foreign national doing paid work — and yes, that includes tattooing.
+Let me be straight with you here, because this changed significantly in 2025. Thailand is not the free-for-all it was five years ago. The informal system that sustained hundreds of foreign artists for years is under real pressure, and you need to understand exactly what you're stepping into.
 
-- **Non-Immigrant B Visa:** Apply before arrival at a Thai embassy in your home country. Cost: ~$80–200 USD (฿2,800–7,000). Initial validity: 90 days.
-- **Work Permit:** Your Thai host studio must apply on your behalf through the Ministry of Labour's Office of Foreign Workers Administration. Cost: ~$90–300 USD (฿3,150–10,500). Processing: 7–14 working days. The employer must maintain a minimum ratio of 4 Thai employees per foreign worker.
-- **TM30 Registration:** Mandatory within 24 hours of arrival. Usually handled by your accommodation or employer.
-- **Overstay penalties:** ฿500/day, up to ฿20,000.
+#### Visa Options
 
-**The guest-spot grey area:** Here's the reality. Tattooing is *not* on Thailand's list of reserved occupations (unlike carpentry or certain handicrafts), which means it's not explicitly banned for foreigners. But enforcement of work permit requirements for short-stay guest artists varies wildly. Doing an unpermitted paid guest spot carries a fine of up to **฿50,000 (~$1,400 USD)** and possible deportation. Many artists operate informally on tourist visas. I'm not recommending it — I'm telling you what happens. The safest path is having the host studio sponsor your Non-B visa and work permit for the duration of the guest spot.
+Thailand has several visa categories, and exactly one of them is technically correct for paid tattooing work:
 
-**Convention note:** Artists attending conventions as competitors or visitors on a tourist visa occupy a grey zone. If you're actively tattooing paying clients at a convention booth, you technically need a work permit.
+| Visa Type | What It Is | Can You Legally Work? |
+|---|---|---|
+| **Tourist Visa Exemption** | 30–60 days visa-free depending on nationality and entry point | No |
+| **Tourist Visa (TR)** | 60 days, single or double entry | No |
+| **Non-Immigrant B Visa (Non-B)** | 90-day business/work visa | Only with a Work Permit |
+| **Destination Thailand Visa (DTV)** | Introduced 2024, for remote workers and "soft power" activities | No — not for locally-paid work |
+| **Long-Term Resident Visa (LTR)** | 10-year visa for investors and high-income earners | Only within permitted activities |
+
+**What a guest-spot tattoo artist actually needs:** A Non-Immigrant B Visa plus a Work Permit issued by the Ministry of Labour. In theory. In practice, this is nearly impossible for a typical 1–4 week guest spot for one devastating reason: tattooing is classified as a **reserved profession for Thai nationals** under the Foreign Employment Act. This means a Thai studio cannot legally sponsor a foreign artist for a tattooing work permit — the category is closed to foreigners by law. There are workarounds, but they require specialist immigration lawyers, unusual business structures, and significant lead time. This isn't a process you can sort out in a week.
+
+**What most artists actually use:** Tourist visa exemption or tourist visa. Let's be honest about that.
+
+**The DTV clarification:** The Destination Thailand Visa was marketed as a solution for digital nomads and creative professionals, but the Ministry of Interior has been clear — it cannot be used for work that "impinges on the local economy" or generates income from Thai sources. Accepting payment from Thai clients for tattoos would meet that definition. The DTV does not solve this problem.
+
+#### How to Apply
+
+**Non-Immigrant B Visa (the technically correct route):**
+
+1. Your Thai host studio must be a registered company with at least THB 2 million in registered capital and a minimum of 4 Thai employees for every foreign worker
+2. Studio applies for WP3 pre-approval at the Department of Employment — 7–14 working days
+3. You apply at a Thai embassy or consulate in your home country (cannot be obtained on arrival) with:
+   - Valid passport (minimum 6 months validity)
+   - Completed visa application form
+   - Passport photo (4×6 cm)
+   - WP3 approval letter from the studio
+   - Employment contract or invitation letter
+   - Company registration documents from the Thai studio
+   - Proof of finances (THB 20,000 per person)
+4. Enter Thailand on the Non-B visa (90-day initial stay)
+5. Studio applies for your work permit within that 90-day window — 7–10 working days
+
+**But as noted above:** tattooing being a reserved profession means step 1 is where the process breaks down for most artists. The studio cannot legally obtain WP3 approval for a tattooing role for a foreign national.
+
+**Tourist entry (what most artists do in practice):**
+- Visa-free entry for eligible nationals: just arrive with your passport, return ticket, and hotel/accommodation details
+- Tourist Visa (TR): apply at a Thai embassy abroad; 60-day entry, single or multiple entry
+
+#### Costs
+
+| Item | THB | USD (approx.) |
+|---|---|---|
+| Non-B single entry | ฿2,000 | ~$57 |
+| Non-B multiple entry (1 year) | ฿5,000 | ~$143 |
+| Work permit (annual) | ฿3,000 | ~$86 |
+| Tourist visa extension (30 days in-country) | ฿1,900 | ~$54 |
+| Overstay fine | ฿500/day, max ฿20,000 | ~$14/day |
+| 90-day reporting fine (if missed) | ฿2,000 | ~$57 |
+
+#### Processing Time
+
+- Non-B visa: 5–10 working days at the embassy
+- Work permit (after arrival): 7–10 working days
+- Total minimum time for a fully legal arrangement: 3–4 weeks minimum, often longer
+
+#### Length of Stay
+
+- **Tourist visa exemption:** 30 days (land entry, certain nationalities) to 60 days (air entry, eligible nationalities) — this has varied by nationality and is currently under review
+- **Tourist Visa (TR):** 60 days
+- **Non-Immigrant B:** Initial 90-day stay, extendable to 1 year with valid work permit
+
+#### Extensions
+
+As of November 2025, extensions have been tightened significantly:
+
+- **First in-country extension:** 30 days (฿1,900) — unchanged
+- **Second in-country extension:** Now only **7 days** — a major change from the previous 30 days
+- **Land border entries:** NOT eligible for extension at all
+- **Same-day exit/re-entry:** Does not qualify for a fresh stay or extension
+- **Pattern-based refusals:** Officers can and will check your entry history. Multiple consecutive extensions, or a documented history of visa runs, will likely result in denial
+- **Non-B with work permit:** 1-year extension applied at local immigration office (฿1,900)
+
+#### Border Runs — The Honest 2026 Reality
+
+**Border runs are effectively dead as a long-term strategy. I can't say this clearly enough.**
+
+Thailand's Immigration Bureau announced a coordinated nationwide enforcement shift on November 12, 2025. The numbers tell the story: since January 2025, approximately **2,900 foreigners have been denied entry** under new protocols targeting people using serial tourist entries to effectively live and work in Thailand.
+
+What's changed in practice:
+
+- **Two-entry cap:** Officers can deny anyone using visa-free entry more than twice without clear justification for ongoing tourism
+- **Entry history scrutiny:** Officers look at your entire stamp history, not just the current trip. If you've been in Thailand on back-to-back tourist entries for six months, the border is not your friend
+- **Land borders flagged:** Mae Sai, Nong Khai, Aranyaprathet, Sadao — all now carry significantly higher risk. Land border entries are also no longer eligible for in-country extensions
+- **Mae Sot permanent ban:** Anyone previously deported through Mae Sot–Myawaddy (Myanmar) faces a permanent re-entry ban. This crossing is heavily targeted due to the scam compound situation in that area
+- **Proposed reduction to 30 days:** As of February 2026, the Thai government is actively reviewing cutting the standard visa-free stay from 60 to 30 days for all 93 eligible nationalities. No decision confirmed as of April 2026, but the direction of travel is clear
+
+**For a genuine 1–4 week guest spot:** A single tourist entry is still manageable if you arrive, do your work, and leave before your permitted stay expires. The crackdown is primarily aimed at people who live in Thailand year-round on serial tourist entries. A two-week visit every few months looks very different to immigration than someone who hasn't left in eight months.
+
+#### Working Without Proper Visa — Actual Consequences
+
+Working in Thailand without a work permit violates both the Immigration Act B.E. 2522 and the Foreign Employment Act:
+
+- **Fines:** Up to **฿50,000 (~$1,400 USD)** for the foreign worker; separate fines for the Thai employer
+- **Deportation:** Immigration officers can detain and deport immediately, or after a short period of detention
+- **Entry ban:** Deportees typically receive a ban of 1–5 years, depending on severity and whether it's a first offence
+- **For the studio:** Fines and potential business disruption. A studio with a history of employing foreign workers without permits is a target for further inspections
+- **Practical reality in 2026:** Enforcement has historically been inconsistent and focused on industries where foreign workers visibly displace Thai workers — tour guides, construction, manual trades. Tattoo guest spots have operated in a grey zone for years. That grey zone is shrinking. The 2025 enforcement broadening is real, and several studios I know have become significantly more cautious about hosting informal foreign guest spots
+
+#### Entry Requirements
+
+- Passport valid for at least **6 months** from date of entry
+- Proof of onward or return travel (return ticket is the clean answer)
+- Proof of accommodation (hotel booking or studio/host address)
+- Proof of sufficient funds: officially THB 20,000 per person (฿40,000 per family) — rarely checked at air entry, routinely checked at land borders
+- **TM30 registration:** The owner or manager of your accommodation must file a TM30 notification to immigration within 24 hours of your arrival at that address. Hotels do this automatically. If you're staying with your host studio or a friend, make sure they register you. Failure creates complications at visa extensions. Fine for non-compliance: ฿800–2,000
+- **Thailand Digital Arrival Card (TDAC):** Submit online within 72 hours before arrival
+
+#### Recent Changes (2025/2026)
+
+- **November 2025:** Immigration Bureau announces coordinated crackdown on visa run abuse. Border runs effectively ended as a reliable long-term strategy. Extensions capped (30 days first, 7 days second). Land border entries not eligible for extension
+- **January–April 2025:** Approximately 2,900 foreigners denied entry under the new protocols
+- **February 2026:** Thai government announces review of reducing standard visa-free stay from 60 to 30 days for all 93 eligible nationalities. Decision pending as of April 2026
+- **2024 (ongoing):** Destination Thailand Visa (DTV) launched but clarified as not applicable for locally-paid work
+- **Reserved profession status:** Has not changed. Tattooing remains classified as Thai-nationals-only under the Foreign Employment Act, making formal work permits for foreign tattoo artists legally impossible through the standard route
+
+#### The Reality for Guest-Spot Artists
+
+Here's where I have to be completely straight with you, because this is what people actually need to know.
+
+Legally, there is no clean short-term route. Tattooing is a reserved profession for Thai nationals, which means the work permit pathway that technically exists doesn't actually exist for tattoo artists. The Non-B visa without a work permit gives you a business visa but not authorisation to work. The tourist visa explicitly prohibits paid work. The DTV doesn't cover locally-paid tattooing. There is a genuine legal gap here.
+
+What most visiting foreign artists do: they enter on a tourist visa or exemption, do their guest spot, get paid, and leave before their stay expires. Thousands of artists have done exactly this for years. Most had no problems. The risk is real but has been low for solo guest artists who stay briefly and behave professionally.
+
+What's changed: the 2025 enforcement crackdown means you should be more careful than you would have been in 2022 or 2023. Don't do border runs to reset your stay. Don't spend nine months a year in Thailand on back-to-back tourist entries. Don't book multiple consecutive guest spots that look like permanent residence. For a genuine 1–3 week guest spot once or twice a year, with a return ticket booked and hotel confirmed, you're in a very different risk category than someone trying to live here year-round.
+
+What I do: I live here, so my situation is different. But I'll say this — I would not do an unstructured guest spot in a studio that doesn't have its paperwork in order and doesn't take legal risk seriously. Make sure your host studio is legitimate. Carry your invitation letter. Have your return flight booked. And keep an eye on what happens with the 60→30 day review, because if that passes, the logistics of a standard two-week guest spot change significantly.
+
 
 ### 🧳 Bringing Your Equipment
 
@@ -121,6 +243,27 @@ This is the section that matters most in Thailand. Get it wrong and you'll have 
 - **Temples:** Visitors with visible tattoos are generally welcome unless the tattoo depicts explicit or sacrilegious content. Cover provocative tattoos as a courtesy.
 - **Studio etiquette:** Remove shoes when entering studios that observe this practice.
 
+### ✅ Do's & ❌ Don'ts
+
+**Do's:**
+- **Do** learn a few basic Thai greetings — *sawasdee krap/ka* (hello) and *khob khun krap/ka* (thank you). It costs you nothing and earns immediate goodwill in any studio.
+- **Do** bring your own ink and needles. Supply quality in Thailand is inconsistent outside Bangkok, and you'll work better with what you know.
+- **Do** carry cash in Thai Baht. Many studios, convenience stores, and markets operate cash-only. Keep a working float on you at all times.
+- **Do** respect the studio hierarchy. If the head artist or studio owner is present, greet them first and defer to their workflow. Guest artists are guests.
+- **Do** dress modestly when visiting temples or religious sites near the studio — cover shoulders and knees. This applies even if you're just passing through.
+- **Do** eat a proper meal before long sessions. Thai hospitality means you may be offered food during a booking, but don't rely on it — working hungry in 30°C heat is a bad idea.
+- **Do** agree pricing in writing upfront, especially for multi-session pieces. Verbal agreements can get complicated. A simple written confirmation (even a WhatsApp message) protects both sides.
+- **Do** carry a studio invitation letter or convention confirmation at all times. If immigration or police ever ask what you're doing, you want paperwork.
+
+**Don'ts:**
+- **Don't** tattoo Buddha images on clients. It's not just socially offensive — it can attract fines and serious legal attention. The Thai government has prosecuted tourists for disrespecting Buddhist imagery. Don't do it.
+- **Don't** place sacred imagery below the waist. In Thai Buddhist belief, the lower body is spiritually low. Sacred symbols, Yantra script, and religious figures on the lower body or feet are deeply offensive.
+- **Don't** show the soles of your feet to Thai people or point your feet at people or sacred objects. It's considered highly disrespectful — be mindful of how you sit in studios and during consultations.
+- **Don't** touch anyone's head, including clients you're friendly with. The head is considered the most sacred part of the body in Thai culture.
+- **Don't** overstay your visa. Even one day costs ฿500, and the record can affect future entry. Set a calendar reminder and sort your exit well in advance.
+- **Don't** publicly criticise the Thai monarchy in any context — in the studio, on social media, or in conversation. The lèse-majesté law (Article 112) carries prison sentences of up to 15 years per count. This is not a grey area.
+- **Don't** copy another artist's work without explicit permission. The Thai tattoo community is tight-knit. Being known as the artist who ripped off local designs will close doors permanently.
+
 ### 🤝 Finding Guest Spots
 
 - **Instagram** is the dominant platform. DM studios directly with your portfolio. Most Bangkok studios are Instagram-active. Search hashtags: #bangkoktattoo, #thaistudio, #bkktattoo.
@@ -136,18 +279,133 @@ This is the section that matters most in Thailand. Get it wrong and you'll have 
 
 Japan is a dream destination for tattoo artists, but it comes with complexity. The culture, the history, the art — it's all incredible. The bureaucracy and social attitudes around tattoos? That's the challenge.
 
-### ✈️ Visa & Work Permit Rules
+### ✈️ Immigration & Visa Guide
 
-The big news first: Japan's **2020 Supreme Court ruling** confirmed that tattooing is an artistic act, not a medical procedure, making it legal for non-doctors to tattoo. That was a landmark decision that changed everything for the domestic industry.
+Japan is genuinely one of the most complex countries in this guide from an immigration standpoint. The 2020 Supreme Court ruling changed everything for Japanese tattoo artists — but it changed very little for foreign artists wanting to work here. Let me untangle what actually happened and what it means for you.
 
-But for foreign artists wanting to *work* in Japan, the visa situation is still complicated:
+#### Visa Options
 
-- **Artist Visa (Geijutsu):** For foreign nationals pursuing creative activities. Requires a substantial portfolio, proven career, work plan in Japan, and a Certificate of Eligibility (COE) obtained in Japan before travel. COE processing: 1–3 months. Full timeline: potentially 3–6 months. Important: tattoo artistry doesn't fit cleanly into traditional "fine arts" categories, so acceptance varies.
-- **Working Holiday Visa:** Available to citizens of ~30 countries (Australia, NZ, Canada, UK, etc.). In theory WHV holders can work, but immigration classifies tattooing as potentially falling under "public morals" restrictions. Grey area.
-- **Employer-sponsored Work Visa:** Very few Japanese tattoo studios are set up to sponsor a foreign artist's work visa.
-- **Tourist / visa-exempt entry:** Most Western nationalities can enter visa-free for 90 days. Doing paid tattooing on tourist entry is technically illegal. But enforcement at the individual artist level is very low, and many international guest spots happen informally.
+| Visa Type | What It Is | Can You Legally Work? |
+|---|---|---|
+| **Temporary Visitor (tourist)** | 90-day visa-free entry for most Western nationals | No |
+| **Artist (Geijutsu) Status of Residence** | Residence status for creative professionals | Yes — if approved |
+| **Working Holiday Visa (WHV)** | Available for nationals of ~30 countries under 30/35 | Partially — tattooing is legally grey |
+| **Spouse/Family Visa** | For those married to Japanese nationals or PRs | Yes — unrestricted work rights |
+| **Permanent Residence** | Long-term residents | Yes — unrestricted |
 
-**The honest reality for guest spots:** There is effectively no clean, fast legal pathway for a short-term tattoo guest spot in Japan. Most international artists working guest spots do so on tourist entries, which is technically non-compliant. Carry studio invitation letters and a professional portfolio as supporting documentation if questioned. Each artist needs to assess this risk for themselves.
+**What a guest-spot tattoo artist actually needs:** The Artist (芸術) status of residence is the theoretically correct route. It covers visual arts, music, literature, and performing arts. Tattoo has not been explicitly included in this category by Japanese immigration authorities, which creates the core problem. Multiple immigration consultants and visa specialists confirm that obtaining an Artist visa for a tattoo guest spot is "extremely difficult" and that "very few tattoo studios in Japan have the necessary qualifications or conditions to sponsor a foreigner for a work visa."
+
+**The 2020 Supreme Court ruling — what it actually means:** Japan's Supreme Court ruled in September 2020 that tattooing is an artistic act, not a medical procedure. This was a landmark decision that decriminalised tattooing for Japanese artists who had previously faced prosecution for practising without a medical licence. **It did not create any new immigration pathway for foreign artists.** The issue for foreign artists is not the medical law — it's the immigration law. Those are entirely separate legal questions, and the immigration question remains unresolved.
+
+**Working Holiday Visa:** Available to eligible nationals (UK, Australia, NZ, Canada, Ireland, etc.) under the applicable age limit. WHV holders can work in Japan, but tattooing may be classified under restrictions on "entertainment or activities harmful to public morals" — a legal grey area that has not been definitively resolved.
+
+**What most artists actually use:** Temporary visitor (tourist) entry, and they work informally. This is technically unauthorised. Most guest spots in Japan happen this way.
+
+#### How to Apply
+
+**Temporary Visitor Entry (most common in practice):**
+- Citizens of the US, UK, EU, Australia, Canada, NZ, and ~60 other nationalities receive 90-day visa-free entry
+- If your nationality requires a visa: apply at the Japanese embassy in your home country — typically 3–5 working days
+- No special documents required beyond standard tourist entry requirements
+
+**Artist Status of Residence (the formal route):**
+
+1. Secure a Japanese sponsor — a gallery, studio, or arts organisation willing to support a Certificate of Eligibility application
+2. The sponsor applies for a **Certificate of Eligibility (COE)** at the regional immigration bureau in Japan:
+   - COE application form
+   - Letter of reason explaining the artistic activity
+   - Evidence of your artistic background (exhibitions, publications, press, awards, commercial commissions)
+   - Evidence of financial stability
+   - The sponsor's documents (company registration, financial statements)
+   - Processing time for COE: **1–3 months**
+3. Once COE is issued, apply at the Japanese embassy or consulate in your home country:
+   - Passport (valid for duration of intended stay)
+   - Completed visa application form
+   - One passport photo (30mm × 40mm)
+   - Original COE
+   - Portfolio and career summary
+   - Contracts or invitations from Japanese collaborators
+   - Financial documents
+   - Visa fee (varies by nationality: approximately JPY 3,000 single / JPY 6,000 multiple)
+4. Embassy processing after COE receipt: approximately 1 week
+
+**To qualify for Artist status, you must demonstrate:**
+- Substantial proven artistic background — exhibitions, publications, press coverage, commercial commissions, awards
+- A clear work plan in Japan with specific schedule and activities
+- Contracts or letters from authorised Japanese organisations
+- Financial self-sufficiency during your stay
+- That your activities constitute legitimate artistic work in Japan
+
+#### Costs
+
+| Item | JPY | USD (approx.) |
+|---|---|---|
+| Single-entry visa | ¥3,000 | ~$20 |
+| Multiple-entry visa | ¥6,000 | ~$40 |
+| COE application | Free | — |
+
+#### Processing Time
+
+- Tourist visa (if required): 3–5 working days at embassy
+- COE for Artist status: 1–3 months
+- Artist visa after COE is issued: approximately 1 week at embassy
+- **Total timeline from start to legal entry: 2–4 months minimum**
+
+This is the core problem for guest spot planning. You cannot sort this out in a hurry.
+
+#### Length of Stay
+
+- **Temporary visitor (tourist):** Up to 90 days (visa-free for most Western nationals)
+- **Artist residence status:** Typically issued for 1–3 years initially, renewable
+- **Working Holiday:** 1 year, non-renewable
+
+#### Extensions
+
+- **Temporary visitor:** A 30-day extension can be applied for at a regional immigration bureau, but approval is discretionary and not typically granted for people showing signs of working. Requires a legitimate stated reason
+- **Artist status:** Apply for extension of residence at the immigration bureau with updated evidence of ongoing qualifying artistic activity
+- **Working Holiday:** Not extendable
+
+#### Border Runs
+
+Japan does not have a "border run" culture the way Thailand does. Japan enforces re-entry rules strictly. If you're regularly exiting and re-entering Japan with tattoo equipment, studio contacts on your phone, and a pattern of short stays, you may face questioning or denial on re-entry. Japan conducts selective but thorough immigration screenings. This is not a country where gaming the entry system through exits to South Korea or Taiwan is a viable long-term approach.
+
+#### Working Without Proper Visa — Actual Consequences
+
+Working in Japan without proper authorisation — i.e., tattooing for payment while on tourist or temporary visitor status — violates the Immigration Control and Refugee Recognition Act. The penalties are serious:
+
+- **The artist:** Criminal charge for unauthorised employment — potential fine up to **JPY 3,000,000 (~$20,000 USD)** and/or up to **3 years imprisonment**. If convicted or subject to a deportation order, a **5-year re-entry ban** is standard
+- **The host studio:** Criminal charge for facilitating illegal employment — same penalties apply (up to JPY 3 million and/or 3 years). Even if the studio claims they didn't know, negligence can be sufficient grounds under the 2009 immigration law amendments
+- **Practical enforcement:** Japan is not known for conducting sweeping tattoo studio raids, but it does happen. A single complaint — from a dissatisfied client, a competitor, or a neighbour — can trigger an immigration investigation. Once one is opened, it tends to be thorough. The risk is not zero, and the consequences when it goes wrong are severe
+
+#### Entry Requirements
+
+- Passport valid for the **duration of your stay** (6 months validity strongly recommended to avoid any complications)
+- Return or onward ticket
+- Proof of accommodation (hotel reservation or host's address)
+- Proof of sufficient funds for your stay
+- Most Western nationals (US, UK, EU, Australia, Canada, NZ) receive 90-day **visa-free entry** — no advance application needed
+- If on a work-authorised visa: register your address at the local city hall within 14 days of arrival
+- No current health documentation requirements (post-COVID measures lifted)
+
+#### Recent Changes (2025/2026)
+
+- **September 2020 (impact still unfolding):** Supreme Court ruled tattooing is artistic, not medical — removed the prosecution threat for Japanese artists working without a medical licence. This ruling does not affect the immigration situation for foreign artists. The two legal questions are entirely separate
+- **2025–2026:** Japan has intensified immigration enforcement on illegal employment broadly. The risk environment for unauthorised work has increased across all industries
+- **No visa reform specific to tattoo artists has been announced.** The legal gap — tattooing is now legal to practise, but receiving payment for it as a foreign national on tourist status remains unauthorised immigration-status work — is unresolved as of April 2026
+- **Japan Tattooist Association** continues to grow post-2020, but advocacy has focused on domestic practitioner rights, not foreign work permit reform
+
+#### The Reality for Guest-Spot Artists
+
+This is the country where I give people the most uncomfortable honest answer, because Japan's penalties are the most severe in this guide.
+
+The 2020 Supreme Court ruling gets cited constantly as a reason to think Japan is now open for foreign artists. It is not. The ruling resolved the medical licensing issue for Japanese citizens. It did nothing for foreign work authorisation. You can tattoo legally in Japan — if you're Japanese, or if you have appropriate immigration status permitting paid artistic work. As a foreign national on a tourist visa, you cannot.
+
+What most international artists working guest spots in Japan actually do: they enter on tourist status and work informally. Some studios structure the arrangement as an "artistic collaboration" or "cultural exchange" rather than a commercial transaction. Some handle payment in ways that avoid a direct client-to-foreign-artist money trail. This legal grey zone is common, well understood within the Japanese tattoo community, and not legally clean.
+
+The studios that host international guest artists most frequently — larger internationally-connected studios in Shibuya, Harajuku, Shimokitazawa, and Osaka — have developed informal patterns around this over years. They know the situation. Have the conversation openly with any potential host about how they handle it, and make a decision with clear eyes.
+
+What I'd tell a close friend: if you're going to work a guest spot in Japan, understand you're working in legal grey territory. The enforcement risk at the individual guest artist level has historically been low. But the penalty if you're unlucky is JPY 3 million, 3 years in prison, and a 5-year ban. That's not a hypothetical — those are the law's actual provisions. Factor that into your risk assessment.
+
 
 ### 🧳 Bringing Your Equipment
 
@@ -226,6 +484,26 @@ This is absolutely critical in Japan. The tattoo-yakuza association is real and 
 - **Public spaces:** No legal prohibition. Younger Japanese are significantly more accepting. Urban areas are far more relaxed than rural ones.
 - **For artists:** Post-2020 Supreme Court ruling, tattooing is legal. No medical licence needed. But opening a studio requires health department registration with the local prefecture.
 
+### ✅ Do's & ❌ Don'ts
+
+**Do's:**
+- **Do** bring a Japanese-speaking contact, or at minimum a reliable translation app. Even studios that host international guests regularly will appreciate any effort to communicate in Japanese.
+- **Do** have business cards (*meishi*) ready if you have them. In Japanese professional culture, exchanging cards at a first meeting signals that you take the relationship seriously. Receive theirs with both hands and look at them before putting them away.
+- **Do** bow slightly when greeting studio owners or senior artists. A small nod-bow when being introduced is enough — you don't need to go full formal, but the gesture is noticed and appreciated.
+- **Do** be punctual to the minute. Arriving even five minutes late to a meeting or the start of a guest spot is seen as disrespectful. If you're delayed, message ahead immediately.
+- **Do** cover your tattoos in public spaces — on trains, in gyms, at traditional venues. Keep a light long-sleeve layer with you. This isn't shame; it's reading the room in a culture that values discretion.
+- **Do** research which onsen are tattoo-friendly before recommending any to clients. [tattoo-friendly.jp](https://tattoo-friendly.jp) keeps an up-to-date list. Kinosaki and Beppu are reliably good options.
+- **Do** bring documentation of your work history — a printed or digital portfolio, convention attendance records, or press features. Japanese studios considering a guest spot want to verify your credentials.
+- **Do** remove shoes before entering any traditional studio or private working space. Watch for the step and slippers at the entrance.
+
+**Don'ts:**
+- **Don't** design Yakuza-associated imagery — full body irezumi, specific clan crests, traditional dragon configurations associated with organised crime — without understanding the cultural weight. It's not illegal, but clients may not understand what they're asking for, and it reflects on you.
+- **Don't** shove a received business card into your back pocket immediately. Look at it, acknowledge it, and set it respectfully on the table or in a card holder. Treating a meishi carelessly is a genuine social offence.
+- **Don't** wear shoes inside a traditional studio. If there's a step at the entrance and slippers provided, that's the signal — act accordingly.
+- **Don't** haggle over pricing. Price negotiation in a professional Japanese tattoo studio is considered disrespectful. Accept the quoted rate or politely decline.
+- **Don't** display tattoos visibly in conservative public spaces if you can avoid it — especially near temples, in ryokan (traditional inns), or in rural areas. Urban Tokyo is relaxed; not everywhere is.
+- **Don't** tip in Japan. Unlike much of the West, tipping can be read as patronising or awkward. Japanese service culture doesn't operate on a tip economy. Just pay the agreed amount.
+
 ### 🤝 Finding Guest Spots
 
 - **Instagram** is the primary channel. DM studios with your portfolio. Many studios that host international guests are English-literate.
@@ -241,19 +519,132 @@ This is absolutely critical in Japan. The tattoo-yakuza association is real and 
 
 Bali is paradise for a working artist — warm, cheap, creative, and full of international clients. But Indonesia has some of the strictest foreign work rules in Asia, and they actually enforce them.
 
-### ✈️ Visa & Work Permit Rules
+### ✈️ Immigration & Visa Guide
 
-Indonesia runs a **special task force specifically targeting illegal foreign workers**. This is not a drill. Bali's enforcement is active.
+Bali stands out from the rest of this guide for one reason: it actually has a working legal pathway for foreign tattoo artists doing short guest spots. The C7C Practical Skill Demonstration Visa was introduced in 2023, and it fits what guest artists do almost perfectly. There's still bureaucracy involved, but for the first time you can do this properly without needing a lawyer or a six-month timeline.
 
-**Formal legal pathways:**
+That said, Indonesia also has the most active enforcement apparatus of any country in this guide. The task force targeting illegal foreign workers in Bali is real and active. Get this right.
 
-- **C7C Visa (Practical Skill Demonstration):** This is the most realistic option for a short guest spot. It's a short-term single-entry artist visa for professionals demonstrating skills live. Stay: **30 days, non-extendable**. Cost: ~**IDR 3,000,000 (~$185 USD)**. Processing: 5–10 business days. Requirements: an employment contract in Indonesian signed by both parties, plus the host studio's company registration documents. The host studio must be a legally registered company.
-- **Artist KITAS E23R:** A 6-month work visa for longer engagements. Multiple entry. Cost: ~**IDR 22,950,000 (~$1,400 USD)** including government work levy (~$600) and KITAS fees. Requirements: certified diploma translation, 5 years of documented work experience, Bali address, and a qualified sponsoring company. Processing: 1–2 months.
-- **Full KITAS/IMTA (employer-sponsored):** The standard long-term route. Requires a properly registered company with minimum IDR 1 billion capital. Cost to artist: ~$1,500 USD. Processing: up to 3 months. You must be outside Indonesia when applying.
+#### Visa Options
 
-**The guest-spot reality:** The C7C visa is the most practical route, but your host studio needs to be a fully registered business. Many smaller shops and beach-front operations don't have the legal structure to sponsor one. Artists doing informal paid work on tourist visas risk **deportation and fines**.
+| Visa Type | What It Is | Can You Legally Work? |
+|---|---|---|
+| **Visa on Arrival (VOA / e-VOA, B211A)** | 30 days, extendable once to 60 days | No |
+| **C7C — Practical Skill Demonstration Visa** | 30 days, single entry | **Yes — this is the right one** |
+| **C211A — Single-Entry Tourist Visa** | 60 days, extendable up to 180 days | No |
+| **D7 Multiple-Entry Artist Visa** | Multiple entries, up to 1 year | Yes — for qualifying artists |
+| **Artist KITAS (E23R)** | 6-month work-authorised residence | Yes |
+| **C7A — Music Performer Visa** | For musicians at events | Not applicable to tattoo artists |
 
-**Visa-on-arrival (30 days, extendable once to 60 days total):** Fine for attending the Bali Tattoo Expo as a non-working visitor. Not sufficient for receiving payment.
+**What a guest-spot tattoo artist actually needs:** The **C7C Practical Skill Demonstration Visa** is the correct legal option. It specifically covers professionals "demonstrating skills live" — chefs, yoga instructors, photographers, and other creatives invited to perform their craft at workshops, showcases, or events. Tattooing at a studio guest spot fits squarely within this definition. It's a single-entry, 30-day, non-extendable visa. It requires a legally registered Indonesian sponsor (your host studio) and a signed cooperation contract.
+
+**What most artists actually use:** Visa on Arrival. It's easy to obtain, doesn't require paperwork, and is what most tourists use. Paid work on a VOA is illegal. Enforcement has historically been inconsistent — but Bali's immigration razia (sweeps) have been increasing in the Canggu area specifically.
+
+The C7C is genuinely the cleaner path. The cost difference between a VOA ($35) and a C7C (~$275 all-in through an agent) is real but not enormous relative to the income from a week's tattooing. And your host studio needs to be a registered business to sponsor you — which is also a useful quality check on who you're working with.
+
+#### How to Apply
+
+**C7C Practical Skill Demonstration Visa — step by step:**
+
+1. **Find a sponsor.** Your host studio must be a legally registered Indonesian business entity. They act as your event organiser/sponsor. You cannot apply independently — no sponsor, no C7C
+2. **Prepare your documents:**
+   - Scanned colour copy of your passport (valid for at least **9 months** from intended entry date, with at least **2 blank pages**)
+   - Recent passport photo (half-body, facing forward)
+   - Personal bank statement showing a **minimum balance of USD 2,000** for the last 3 months (must show your name, period covered, and balance clearly)
+   - **Cooperation contract** between you and the studio: must be in Indonesian, signed by both parties, include materai (official Indonesian tax stamp), company seal, clear description of the work, dates, and compensation
+3. **Your sponsor provides:**
+   - Company registration documents (AKTA, SIUP, NPWP, NIB)
+   - Employer's ID or passport
+   - Company address and profile from the Directorate General of AHU
+4. **Application submitted online** at evisa.imigrasi.go.id — no embassy visit required
+5. **E-Visa arrives by email.** You have **90 days** from the issue date to enter Indonesia. Once you enter, the 30-day clock starts
+6. **Visa agents:** If you don't want to handle the Indonesian documentation yourself (the contract needs to be in Indonesian, with correct formatting), Bali-based agents like Gaya Bali Visa and Visa Pro Indonesia commonly handle the whole process. All-inclusive cost: approximately IDR 4,500,000 (~$275 USD)
+
+**Express option:** For tighter timelines, expedited C7C processing takes 1–3 business days at higher cost (IDR 5,000,000–6,000,000 / ~$305–370).
+
+**VOA / e-VOA (tourist entry, for non-working visits):**
+- Apply online at molina.imigrasi.go.id before travel, or pay on arrival at Ngurah Rai Airport
+- USD 35 fee
+- Valid 30 days, extendable once for 30 more days
+
+#### Costs
+
+| Visa Type | Government Fee | Total All-In (approx.) |
+|---|---|---|
+| VOA / e-VOA | USD 35 (~IDR 550,000) | USD 35–50 |
+| C7C (standard, 5–10 business days) | IDR 3,000,000 (gov component) | IDR 4,500,000 (~$275) |
+| C7C (express, 1–3 business days) | Higher | IDR 5,000,000–6,000,000 (~$305–370) |
+| Artist KITAS E23R (6 months) | Gov + levy combined | ~IDR 22,950,000 (~$1,400) |
+| Bali Tourist Levy | IDR 150,000 (~$9) | Paid on arrival or online |
+
+*USD equivalents are approximate and will vary with exchange rates.*
+
+#### Processing Time
+
+- **e-VOA:** Instant to a few hours online; also available on arrival
+- **C7C standard:** 5–10 business days from when complete documents are submitted
+- **C7C express:** 1–3 business days
+- **Artist KITAS E23R:** 10–20 business days
+
+**Planning implication:** Start the C7C process at least 3–4 weeks before your planned arrival date to have comfortable buffer. Your host studio also needs time to prepare the documentation. Don't try to do this in a rush.
+
+#### Length of Stay
+
+- **VOA/e-VOA:** 30 days; extendable once for 30 more days (60 days maximum total). Cancelled immediately if you exit Indonesia — you cannot re-enter on the same VOA
+- **C7C:** 30 days, non-extendable. Single entry — if you leave Indonesia, the visa is void. You'd need to apply for a new one for any subsequent visit
+- **C7C validity window:** You have 90 days from the e-visa issue date to make your entry. Once you enter, the 30 days begin
+- **Artist KITAS E23R:** 6 months, multiple entry
+
+#### Extensions
+
+- **VOA:** Extendable once, for 30 more days. Apply at a local immigration office (Kantor Imigrasi) or through an agent before your initial 30 days expire
+- **C7C:** Not extendable under any circumstances. Exit Indonesia at 30 days, then reapply for a new C7C if you're returning
+- **Artist KITAS:** Cannot be extended. When it expires, you apply for an Exit Permit Only (EPO) to formally close it, then reapply from outside Indonesia if needed
+
+#### Border Runs
+
+Indonesia's VOA system works differently from Thailand's — the VOA is cancelled on exit. There's no "border run" that automatically resets your stay. If you want a fresh 30 days after your VOA expires, you must leave Indonesia entirely and then pay for a new VOA on re-entry. In practice, some artists fly to Singapore or Kuala Lumpur for a night and return. This isn't illegal but it's not a long-term solution, and it doesn't make your work legal — you'd still be working on a tourist entry.
+
+The C7C avoids this problem entirely: your 30 days are legal, you're not extending anything, and if you want another Bali guest spot later in the year you apply for another C7C for that visit.
+
+#### Working Without Proper Visa — Actual Consequences
+
+Working in Bali without authorisation violates Indonesian immigration law:
+
+- **Fines:** Up to IDR 25,000,000 (~$1,500 USD) per individual
+- **Detention:** Possible detention at the Rumah Detensi Imigrasi (immigration detention facility in Bali)
+- **Deportation:** With a re-entry ban of up to 6 months (can be longer for repeat offenders)
+- **For the studio:** Fines and potential business licence issues
+- **Practical enforcement:** Bali's immigration authority runs periodic razia — enforcement sweeps that have been increasingly targeting the Canggu area specifically. Any complaint from a client, competitor, or member of the public can trigger an inspection. Bali has deported several dozen foreign workers in high-profile cases in recent years. Enforcement is inconsistent but real
+
+#### Entry Requirements
+
+- Passport valid for at least **6 months** from date of entry — and **9 months** if using the C7C (the stricter requirement applies)
+- At least **2 blank pages** in your passport (C7C requirement)
+- Return or onward ticket out of Indonesia
+- Address of your accommodation in Indonesia
+- Proof of sufficient funds (USD 2,000 for C7C; generally required but less strictly checked on VOA)
+- Completed Indonesia Arrival Card — submit electronically within 3 days before arrival
+- **Bali Tourist Levy:** IDR 150,000 per international visitor — pay online before arrival or at the airport/seaport on arrival
+
+#### Recent Changes (2025/2026)
+
+- **September 2023:** Introduction of the C7C, C7A, and C7B visa categories as part of Indonesia's overhauled visa system — the key change that created a legal route for guest artists
+- **2025:** C7C increasingly recognised within Bali's tattoo community as the viable legal route. More visa agents and studios are now familiar with the process than at launch
+- **2025:** D7 multiple-entry artist visa now available for artists making repeat visits across the year
+- **2025–2026:** Bali immigration has conducted increased enforcement sweeps in Canggu targeting illegal foreign workers — the enforcement pressure is higher than it was in 2022–2023
+- **February 2024 (ongoing):** Bali Tourist Levy of IDR 150,000 per international visitor, continuing in 2026
+
+#### The Reality for Guest-Spot Artists
+
+Bali is the good news story in this guide. It's the one country where there's a purpose-built legal pathway that's actually practical for a 1–4 week guest spot. The C7C costs roughly $275, takes up to 10 business days, requires your host studio to be a registered business, and requires you to have a signed contract and a bank balance of $2,000. That's manageable.
+
+The catch: your host studio has to be a fully registered Indonesian business entity. A lot of the smaller, beachfront-casual operations in Bali don't have the legal structure to sponsor a C7C. If you're working with a studio that can't produce their AKTA, SIUP, NPWP, and NIB documents, they can't sponsor you legally. That's worth knowing before you commit to dates.
+
+What most artists still do: come on a VOA and work informally. It's what's been happening for years. But the enforcement environment in Canggu specifically has tightened, and the C7C option now exists and is genuinely usable. If you're visiting a properly established studio with its paperwork in order, doing this correctly is now a realistic option rather than a theoretical one.
+
+My advice: ask your prospective host studio directly whether they can sponsor a C7C. If they can, do it properly. If they can't, you're making a risk assessment about working on tourist entry in a country with active enforcement. At least make that choice with full information.
+
 
 ### 🧳 Bringing Your Equipment
 
@@ -313,6 +704,24 @@ The Bali Tattoo Expo is the island's primary event. The 9th edition ran in Augus
 - **Tattoo culture on Bali** is generally very positive. The island has a long-standing tattoo tradition and the scene is welcoming to foreign artists.
 - **Rest of Indonesia:** More conservative. Bali is an exception within a Muslim-majority country. If you travel to Java or other islands, different norms apply.
 
+### ✅ Do's & ❌ Don'ts
+
+**Do's:**
+- **Do** dress modestly when passing temples or entering areas during ceremonies — a sarong and sash are the minimum, and they're usually available to borrow near temple entrances. Even if you're just walking past, make the effort.
+- **Do** learn the difference between sacred and decorative Balinese motifs before you pick up a machine. Balinese tattoo tradition carries deep spiritual meaning. Knowing what's ceremonial versus ornamental protects you from causing serious offence without realising it.
+- **Do** bring cash in Indonesian Rupiah (IDR). While cards are accepted in tourist-facing businesses, many studios, markets, and transport options are cash-only. Keep enough IDR for a full day's spending.
+- **Do** check studio hygiene standards thoroughly before you commit to a guest spot. Standards vary enormously in Bali — from fully professional to genuinely risky. Visit in person first if possible.
+- **Do** respect how local Hindu religious ceremonies affect the studio schedule. Bali runs on its own ceremonial calendar. A studio might legitimately close for Nyepi (Day of Silence) or a local temple ceremony. Build flexibility into your travel dates.
+- **Do** bring your own specialist supplies — inks you trust, specific needle configurations, anything you can't easily substitute. Local stock quality and variety varies outside Canggu.
+
+**Don'ts:**
+- **Don't** tattoo clients with sacred Hindu imagery — Ganesha, Shiva, Durga, sacred mandalas — without a proper understanding of the symbolism and the client's informed intent. Balinese locals will notice and judge both you and the client.
+- **Don't** point at people or objects with a single finger. In Balinese and broader Indonesian culture, pointing with one finger is rude. Use your whole hand or thumb to gesture.
+- **Don't** touch anyone's head — clients, local staff, children. The head is considered sacred. Even in a casual moment, this crosses a line.
+- **Don't** tattoo people who are clearly intoxicated. Beyond the obvious professional reasons, Bali's enforcement environment has become stricter, and being associated with incidents involving intoxicated tourists creates real problems for your host studio.
+- **Don't** underestimate monsoon season (November–March) affecting your plans. Flights get delayed, roads flood, and some beach-area studios are effectively cut off. Budget extra time on either side of your trip.
+- **Don't** photograph religious ceremonies, temple rituals, or processions without clear permission. These are not tourist attractions. Pointing a camera at a ceremony in progress without asking first is disrespectful and increasingly unwelcome.
+
 ### 🤝 Finding Guest Spots
 
 - **Instagram** is the primary platform. DM Canggu and Seminyak studios with your portfolio. The Bali tattoo community is very Instagram-driven.
@@ -327,16 +736,118 @@ The Bali Tattoo Expo is the island's primary event. The 9th edition ran in Augus
 
 Singapore is small, expensive, orderly, and absolutely brilliant. The tattoo scene punches way above its weight for a city-state. But the compliance culture here is real — Singapore takes rules seriously, and so should you.
 
-### ✈️ Visa & Work Permit Rules
+### ✈️ Immigration & Visa Guide
 
-Singapore's Ministry of Manpower does not have a streamlined pathway for short-term visiting tattoo artists. Here's what exists:
+Singapore is the most strictly enforced compliance environment in this guide. The rules here are real, the fines are serious, and the immigration authorities operate at a higher standard than anywhere else in Southeast Asia. Don't approach Singapore the way you'd approach Bangkok. It doesn't work that way.
 
-- **Employment Pass (EP):** For foreign professionals earning at least **SGD 5,000/month** (minimum, higher for some sectors). Requires employer sponsorship. Processing: ~3 weeks. Not practical for a short guest spot.
-- **S Pass:** For mid-skilled workers earning at least SGD 3,150/month. Requires employer sponsorship and a quota system.
-- **Work Pass Exempt (WPE) Framework:** Allows certain short-term activities without a formal work pass, but tattoo artistry at a private studio is not clearly within the exempt categories.
-- **Work Permit (Performing Artiste):** This scheme — which allowed short-term work for performing artists — **has been discontinued as of June 1, 2026**, due to widespread abuse.
+There's also been a significant change as of June 2026 that's worth understanding properly, because a lot of the old information circulating about Singapore's performing artiste work permit is now obsolete.
 
-**Practical reality:** Some artists work informal guest spots on a Tourist/Social Visit Pass (most Western nationalities get 30–90 days visa-free). This is technically non-compliant. **Singapore's enforcement is stricter than Thailand or Bali.** For legitimate arrangements, work with the host studio to explore whether they can apply for an EP or establish a formal contractual consulting arrangement. Legal advice from a Singapore immigration lawyer is recommended for extended stays.
+#### Visa Options
+
+| Pass/Visa Type | What It Is | Relevant for Tattoo Artists? |
+|---|---|---|
+| **Short-Term Visit Pass (STVP)** | Tourist entry, 30–90 days depending on nationality | Tourist only — no working |
+| **Work Pass Exempt (WPE) Framework** | Short-term activity permit, up to 90 days/year cumulative | **The primary legal route post-June 2026** |
+| **Work Permit (Performing Artiste)** | Was: short-term work for performers up to 6 months | **Abolished June 1, 2026** |
+| **Employment Pass (EP)** | Long-term professional employment, min. SGD 5,600/month | Not practical for guest spots |
+| **S Pass** | Skilled worker, min. SGD 3,300/month, employer-sponsored | For longer-term roles only |
+| **EntrePass** | Entrepreneurs with venture-backed businesses | Not applicable |
+
+**What a guest-spot tattoo artist actually needs post-June 2026:** The **Work Pass Exempt (WPE) framework** is the most practical legal route for short guest spots. It allows up to 90 cumulative days per calendar year of qualifying short-term activity without a formal work pass, provided you notify MOM before starting work. There are conditions around what activities qualify and where they can take place, which I'll cover below.
+
+**The PA Work Permit abolition:** Singapore's Ministry of Manpower announced on December 1, 2025 that the Work Permit (Performing Artiste) scheme — in place since 2008 — would cease accepting new applications from **June 1, 2026**. Existing pass holders can continue working until their pass expires, but no renewals will be issued. The reason: MOM and the Singapore Police Force discovered widespread abuse, with syndicates using shell venues to obtain performer permits in bulk and deploying "artists" as hostesses or to unlicensed venues. A single night raid in October 2025 arrested 58 people — 32 of the "performing artistes" held no valid permits at all.
+
+**Impact on tattoo artists:** The PA Work Permit was primarily used by musicians, dancers, and club/bar performers — not typically by tattoo artists, who wouldn't have used it. The WPE framework remains available and is the relevant route.
+
+#### How to Apply
+
+**Work Pass Exempt (WPE) Framework — step by step:**
+
+1. **Arrange your engagement before arriving.** You must have a confirmed engagement with a Singapore studio — contract, invitation letter, agreed terms — before you enter Singapore
+2. **Enter Singapore.** Immigration issues your Short-Term Visit Pass on arrival (typically 30 days for most Western nationals)
+3. **After arrival and before starting any paid work:** File an **e-Notification to MOM** online at mom.gov.sg. This notification requires:
+   - Your personal details
+   - Activity type and description
+   - Details of your employer/client (the studio)
+   - Expected duration of activity
+4. **Work within your STVP validity.** No extension is granted for WPE purposes. Track your cumulative WPE days across the calendar year — the **90-day annual cap is cumulative across all Singapore visits**, not per trip
+5. If returning to Singapore for further guest spots during the same calendar year, your previous WPE days count toward the cap
+
+**Important restriction — Category 1 Public Entertainment Licence venues:** WPE activities are not permitted at venues holding a Category 1 Public Entertainment Licence (bars, nightclubs, lounges, pubs, hotels, private clubs, restaurants). Most dedicated tattoo studios do not operate under a Cat 1 PEL, so this restriction is unlikely to apply to a standard studio guest spot — but confirm with your host studio to be sure.
+
+**Longer-term roles (Employment Pass or S Pass):**
+- Singapore employer must sponsor and apply on your behalf via the myMOM Portal
+- Employment Pass: minimum SGD 5,600/month salary, plus COMPASS points assessment
+- S Pass: minimum SGD 3,300/month, simplified assessment
+- Processing: ~3 weeks (local sponsor) or ~8 weeks (overseas sponsor)
+
+#### Costs
+
+| Item | Fee |
+|---|---|
+| Short-Term Visit Pass (on arrival, most nationalities) | Free |
+| WPE e-Notification | Free |
+| Employment Pass application | SGD 105 (~USD 78) |
+| S Pass application | SGD 105 (~USD 78) |
+| Fine for working without authorisation | Up to **SGD 20,000** (~USD 15,000) |
+
+#### Processing Time
+
+- STVP: Issued on arrival (immediate)
+- WPE e-Notification: Immediate online process
+- Employment Pass: ~3 weeks
+- S Pass: ~1 week
+
+#### Length of Stay
+
+- **STVP:** Typically **30 days** on arrival — but this varies by nationality. Some nationals receive 14 days, some 90 days. Check the ICA website for your specific passport
+- **WPE activities:** Up to **90 cumulative days per calendar year**, within your STVP validity on each visit
+- **Employment Pass:** Up to 2 years initially, renewable for up to 3 years
+
+#### Extensions
+
+- **STVP:** Extensions are not granted for WPE purposes. If you need more time in Singapore, you depart and re-enter for a subsequent visit
+- **Employment Pass / S Pass:** Apply for renewal before expiry, maintaining the minimum salary threshold
+
+#### Border Runs
+
+Not a significant issue for Singapore. Most nationalities receive adequate STVP duration for any guest spot. Singapore is a regional transport hub — Changi Airport handles departures to Malaysia, Indonesia, and across Asia without any of the friction you'd encounter at Thailand's land borders. Departing and re-entering for a subsequent visit is logistically straightforward.
+
+#### Working Without Proper Visa — Actual Consequences
+
+Singapore enforces its employment laws actively and without the informal tolerance you might encounter elsewhere in the region. Under the Employment of Foreign Manpower Act (EFMA):
+
+- **The artist:** Fine up to **SGD 20,000 (~USD 15,000)** and/or imprisonment up to **2 years**. Existing passes may be revoked and future applications barred
+- **The studio:** Fines, potential prosecution, and loss of work pass sponsorship privileges — a serious consequence for any established business
+- **Track record of enforcement:** Three individuals were convicted in 2023 for working as self-employed foreigners without valid work passes. Singapore is not a city that looks the other way on this
+
+#### Entry Requirements
+
+- Passport valid for at least **6 months** from date of entry
+- Return or onward ticket
+- Proof of sufficient funds for the duration of your stay
+- **SG Arrival Card (SGAC):** All visitors must submit online within **3 days before arrival** — free, at sgac.gov.sg
+- Biometrics (facial recognition, iris, fingerprint) collected at Singapore immigration checkpoints on first entry
+- Most Western nationals (US, UK, EU, Australia, Canada, NZ) receive visa-free STVP on arrival. Some Asian nationalities receive 14–30 days visa-free; some require a visa in advance — check the ICA website for your specific passport
+
+#### Recent Changes (2025/2026)
+
+- **December 1, 2025:** Ministry of Manpower announces the Work Permit (Performing Artiste) scheme will cease effective June 1, 2026 — citing syndicate abuse of the system
+- **October 2025:** SPF raid arrests 58 people in a single night; 32 "performing artistes" held no valid permits — the enforcement action that prompted the scheme's abolition
+- **June 1, 2026:** PA Work Permit scheme officially ceased. No new applications. Existing pass holders may work until expiry; no renewals
+- **WPE framework confirmed** by MOM as the primary alternative for legitimate short-term performing activities post-June 2026
+- **Impact on tattoo artists specifically:** The PA Work Permit was primarily relevant for musicians and club performers. The WPE framework was already available to tattoo artists and remains so. The practical legal landscape for legitimate guest-spot tattoo work has not substantially changed — WPE was always the applicable route
+
+#### The Reality for Guest-Spot Artists
+
+Singapore is the country in this guide where I'd be most cautious about informal arrangements. The compliance culture here is fundamentally different from the rest of Asia. Venues and studios are regularly inspected. The fine for unauthorised work is SGD 20,000. Singapore is not a place that quietly looks the other way.
+
+The good news: the WPE framework is genuinely workable for a short guest spot. It's free to notify MOM, it takes effect immediately, and it covers up to 90 days per year. The key conditions are: your engagement must be arranged before you arrive, you must notify MOM before starting work (not after), and your host studio must not operate under a Category 1 Public Entertainment Licence (most dedicated tattoo studios don't).
+
+Whether tattooing specifically qualifies as a WPE activity under the "arts and creative industries" categories isn't explicitly defined in MOM's published guidance. I'd recommend having your host studio contact MOM directly to confirm before your first visit — they can do this via the online advisory service. Once confirmed, the process for subsequent visits is straightforward.
+
+What most artists actually do in Singapore: work informally on tourist entry, because Singapore is expensive and a short guest spot doesn't always pencil out when you factor in the cost of hotels, food, and compliance paperwork. That's a genuine risk calculation, and the stakes are higher than in Bangkok or Bali. For a studio booking that's going to generate meaningful revenue, doing it through the WPE framework properly — MOM notification, contract in place, documentation ready — is the right call. Singapore studios that take compliance seriously will expect this.
+
 
 ### 🧳 Bringing Your Equipment
 
@@ -395,6 +906,24 @@ Both feature international artists and are excellent networking events. For 2026
 - **Multicultural sensitivity:** Singapore's diversity (Chinese, Malay, Indian, expatriate communities) means awareness of cultural symbols in tattoo designs is valued. Avoid designs that may be offensive to any of the three main religious communities.
 - **Religious sites:** Muslim mosques, Hindu temples, and Buddhist temples are present. Cover arms and legs when entering.
 
+### ✅ Do's & ❌ Don'ts
+
+**Do's:**
+- **Do** be extremely professional and punctual — Singapore operates at a business-formal standard even in creative industries. Arriving late to a meeting with a studio owner is a bad start that's hard to recover from.
+- **Do** keep the workspace spotlessly clean throughout your guest spot. Singapore has active health inspections for tattoo studios, and cleanliness standards here are genuinely high. Your working area reflects on the host studio's licence.
+- **Do** price fairly and transparently. Singapore clients research thoroughly before booking — they will know if you're significantly above or below market rate, and unexplained pricing gaps read as either amateur or suspicious.
+- **Do** use digital payments where possible. Singapore is nearly cashless — PayNow, PayLah!, credit cards, and contactless payments are the norm. Not accepting any form of digital payment will create friction.
+- **Do** bring proper documentation of your equipment and supplies. Singapore Customs and the Ministry of Health take compliance seriously. Having your kit clearly labelled and organised, with a declaration prepared, is the right approach.
+- **Do** treat every interaction — client consultations, studio introductions, convention meetings — with the same professionalism you'd bring to a formal business environment. Singapore rewards this.
+
+**Don'ts:**
+- **Don't** be late. Not to meetings, not to the studio, not to client appointments. Punctuality is treated as a baseline professional requirement here, not a nicety. If you're going to be late, message immediately and in advance.
+- **Don't** tip unless a client specifically insists. Tipping is not customary in Singapore in the way it is in the US or parts of Europe. Pushing a tip on local studio staff can create awkwardness.
+- **Don't** leave chewing gum anywhere — not in the studio, not on the street, not in a client's bag as a gift. Importing and selling chewing gum is actually illegal in Singapore. It sounds extreme until you're on the wrong end of it.
+- **Don't** jaywalk. Fines are real and enforced. Use the crossings.
+- **Don't** assume Singapore is like the rest of Southeast Asia. It is not. The social norms, the legal environment, the cost of living, the compliance culture — all of it is categorically different from Bangkok or Bali. Approach it accordingly.
+- **Don't** bring equipment into Singapore without proper documentation. Declaring professional tools at customs is not just advisable — given Singapore's strict compliance culture, it's the only sensible approach.
+
 ### 🤝 Finding Guest Spots
 
 - **Instagram:** Dominant platform. DM studios directly.
@@ -410,15 +939,120 @@ Both feature international artists and are excellent networking events. For 2026
 
 Hong Kong is compact, electric, and has a tattoo scene that's both sophisticated and deeply rooted. It's also got one of the most interesting new visa schemes in Asia for visiting artists.
 
-### ✈️ Visa & Work Permit Rules
+### ✈️ Immigration & Visa Guide
 
-Hong Kong has a separate immigration system from mainland China.
+Hong Kong has one of the more interesting visa setups for visiting artists in this guide, because the STV Scheme is genuinely designed to make short-term professional creative visits work. The catch is the "authorised host organisation" requirement — not every studio qualifies, and this is the detail that determines whether the scheme is actually available to you.
 
-- **General Employment Policy (GEP) Visa:** The primary route for skilled foreign workers. Requires a confirmed job offer, employer sponsorship, proof the role can't be filled locally. Processing: ~4 weeks. Not practical for a short guest spot.
-- **Short-Term Visitor (STV) Scheme:** Expanded November 1, 2025 to **17 sectors**, with 490 authorised host organisations. Allows eligible foreign professionals to work for **up to 14 consecutive days per visit without an employment visa**, provided they're invited by an authorised organisation. The **Arts and Cultural sector is one of the 17 designated sectors**. Over 1,520 non-local arts/culture talent had entered under this scheme by mid-2025.
-  - **What this means for you:** If a Hong Kong tattoo convention or arts organisation authorised under the STV scheme invites you, you can legally participate and receive payment for up to 14 days. This is the cleanest short-term pathway for convention participation.
-- **Working Holiday Visa:** Available to citizens of participating countries (Australia, NZ, Canada, etc.) aged 18–30.
-- **Tourist entry:** Most short guest spots happen informally on tourist entry. Enforcement at the individual level is rare.
+#### Visa Options
+
+| Pass/Visa Type | What It Is | Relevant for Tattoo Artists? |
+|---|---|---|
+| **Visitor (tourist)** | Standard entry, 14–180 days depending on nationality | No paid work |
+| **STV Scheme — Arts and Cultural sector** | Up to 14 consecutive days of paid work per visit, via authorised host | **Yes — most relevant for guest spots** |
+| **STV Scheme — Creative Industries sector** | Separate sector within the same scheme | Potentially yes |
+| **STV Scheme — "Others" sector** | Catch-all for activities not fitting existing sectors | Potentially useful |
+| **General Employment Policy (GEP) Visa** | Standard employment visa, employer-sponsored | For longer-term roles; 4–6 weeks processing |
+| **Quality Migrant Admission Scheme (QMAS)** | Points-based talent admission scheme | Not typically applicable |
+| **Working Holiday Visa** | For nationals of participating countries, aged 18–30 | Permits some work |
+
+**What a guest-spot tattoo artist actually needs:** The **STV Scheme** is the most relevant legal pathway for a short visit. It allows up to 14 consecutive days of paid activity per visit without an employment visa, provided you are invited by an authorised host organisation under one of the designated sectors. The Arts and Cultural sector and the Creative Industries sector are the most relevant for tattoo artists.
+
+**The critical caveat:** The STV Scheme only works if your host organisation is **authorised under the scheme by the relevant government bureau**. Not every tattoo studio in Hong Kong will be an authorised host. This is the first question to ask any studio you're considering: are they authorised under the STV Scheme? If they are, or can become authorised, the pathway is clean. If they're not, you're back to standard visitor entry and the informal grey zone.
+
+**As of November 2025:** The STV Scheme expanded from 12 to **17 sectors**, and the number of authorised organisations increased from ~400 to ~490. As of end-September 2025, over 38,000 foreign nationals had used the scheme, including 1,520 specifically in the Arts and Cultural sector since June 2024.
+
+#### How to Apply
+
+**STV Scheme — step by step:**
+
+1. **Confirm your host is authorised.** Contact the Culture, Sports and Tourism Bureau (CSTB) at (852) 3509 7076 to check whether your proposed host studio is an authorised organisation, or to understand what's required for them to become one
+2. **Your host issues an invitation letter** specifying: the short-term activity, scope, your role, dates, and that they are an authorised host organisation under the relevant STV sector
+3. **You travel to Hong Kong as a visitor.** Present the invitation letter at immigration if requested — it's not mandatory but is strongly recommended to have ready
+4. **On arrival, you receive your standard visitor entry** — your nationality's usual visa-free period or visitor visa if required
+5. You may participate in the specified activities for **up to 14 consecutive calendar days** counting from when activities begin
+6. **You may receive remuneration** for the activities during this period
+7. No separate employment visa or entry permit is required
+
+**General Employment Policy (GEP) Visa — for longer stays:**
+1. Hong Kong employer acts as sponsor
+2. Apply to the Immigration Department (in person, by post, or online)
+3. Documents: valid passport (6+ months validity), visa application form (ID 990A), passport photos, academic certificates, CV, employment contract, sponsor letter and company documents
+4. Processing: **4–6 weeks** standard
+
+**Standard visitor entry (no paid work):**
+- Most Western nationals: visa-free for 90–180 days on arrival
+- Some nationalities require a visitor visa in advance — check the ImmD website for your specific passport
+
+#### Costs
+
+| Item | HKD | USD (approx.) |
+|---|---|---|
+| Visitor entry (most nationalities, visa-free) | Free | — |
+| Visitor visa (if required by nationality) | HKD 190–230 | ~$24–30 |
+| STV Scheme (invited visitors) | No additional fee — covered by visitor entry | — |
+| GEP Visa (stay ≤180 days) | HKD 600 | ~$77 |
+| GEP Visa (stay >180 days) | HKD 1,300 | ~$167 |
+
+#### Processing Time
+
+- Visitor entry / STV Scheme: On arrival — no advance application required (beyond a visitor visa if your nationality needs one)
+- GEP Visa: **4–6 weeks** standard
+
+#### Length of Stay
+
+- **Visitor entry:** 14–180 days depending on nationality (see the ImmD official table at immd.gov.hk)
+- **STV Scheme activities:** Up to **14 consecutive days** of paid work per visit. You may remain in Hong Kong as a tourist for the rest of your permitted visitor stay after the 14 activity days are complete
+- **GEP Visa:** 1–2 years initially, renewable
+
+#### Extensions
+
+- **Visitor stay:** Can apply for extension at the Immigration Department; granted at officer's discretion
+- **STV activity window:** The 14-day paid-work window cannot be extended. For additional paid work time, you must depart Hong Kong and re-enter — each new visit starts a fresh 14-day activity window
+- **GEP Visa:** Apply for renewal before expiry, maintaining continued qualifying employment
+
+#### Border Runs
+
+Not a structural issue for Hong Kong. Most nationalities receive ample visitor time. Travel between Hong Kong and Macau or mainland China is easy by ferry or high-speed rail. Usefully for working artists: each new visit to Hong Kong resets the 14-day STV activity window — so multiple visits per year, each with up to 14 days of paid work, is legally possible through the STV Scheme.
+
+#### Working Without Proper Visa — Actual Consequences
+
+Under the Immigration Ordinance (Cap. 115), working in Hong Kong without proper authorisation:
+
+- **Breach of conditions of stay:** A criminal offence
+- **Prosecution:** Liable to fines and potential custodial sentences
+- **Removal/deportation** from the HKSAR
+- Hong Kong enforces immigration conditions rigorously — it is not a city where informal working arrangements are overlooked at the studio or individual level
+
+#### Entry Requirements
+
+- Passport valid for at least **6 months** beyond your intended stay (strongly recommended; technically some nationalities only need a shorter minimum, but this creates unnecessary risk)
+- Return or onward ticket (unless travelling directly to/from mainland China or Macau)
+- Sufficient funds for your stay
+- **US, UK, EU, Australia, NZ, Canada:** Visa-free up to 90–180 days (varies)
+- **Philippines:** 14 days visa-free
+- **India:** Pre-Arrival Registration (PAR) available for 14-day stays; otherwise a visitor visa is required (minimum 4 weeks processing)
+- Full table of nationality-specific entitlements: immd.gov.hk
+
+#### Recent Changes (2025/2026)
+
+- **June 2022:** Pilot Scheme on Immigration Facilitation for Short-term Activities first launched
+- **June 2024:** Pilot regularised as the permanent STV Scheme, initially covering 12 sectors and ~400 authorised organisations
+- **November 1, 2025:** STV Scheme expanded to **17 sectors** (~490 authorised organisations), adding Environment, Occupational Safety and Health, Maritime, Think Tanks, and "Others." As of end-September 2025, 38,000+ foreign nationals had benefited; 1,520 specifically in the Arts and Cultural sector since June 2024
+- **"Others" sector added:** This catch-all category provides flexibility for activities not fitting neatly into existing sectors — potentially useful for tattoo artists whose host studios might qualify under a creative or arts umbrella but don't map directly to a named sector
+- **October 2025:** Two-tier visa/entry permit fee structure introduced: HKD 600 for stays ≤180 days, HKD 1,300 for stays >180 days (applies to GEP and similar employment visas)
+
+#### The Reality for Guest-Spot Artists
+
+Hong Kong's STV Scheme is genuinely useful — but only if your host studio is an authorised organisation. That's the one question that determines everything.
+
+Start by asking any Hong Kong studio you're considering: "Are you an authorised host under the STV Scheme in the Arts and Cultural or Creative Industries sectors?" If the answer is yes, the legal pathway is clean: you enter as a visitor, carry their invitation letter, and you can work for up to 14 consecutive days and get paid. No additional permits, no work visa, no weeks of processing. It's the most streamlined legal arrangement in this guide.
+
+If the studio isn't currently authorised, the CSTB handles authorisation applications, and it's worth asking your host whether they'd be willing to apply. The scheme has grown significantly (from ~400 to ~490 authorised organisations between June 2024 and November 2025), and a legitimate tattoo studio with arts and creative credentials should be eligible.
+
+What most artists actually do: visit on tourist entry and work informally. Hong Kong's visitor time is generous for most nationalities (90 days for UK, US, EU, Australian passport holders), and enforcement against individual guest artists on tourist entry has historically been low. The legal consequence is still real if you're unlucky, and the STV Scheme — where it's available — is a cleaner approach that requires almost no additional effort beyond checking your host's authorisation status.
+
+The 14-day limit is the practical constraint. If you're looking at a longer residency-style arrangement, the GEP route or a conversation with a Hong Kong immigration lawyer about the QMAS or other options is the right path. For a focused one-to-two-week guest spot with a legitimate studio, the STV Scheme works.
+
 
 ### 🧳 Bringing Your Equipment
 
@@ -481,6 +1115,23 @@ Hong Kong is a free port with **essentially zero tariffs on most goods**. This i
 - **Cultural symbols:** Be thoughtful with Chinese cultural or religious imagery (Buddhist deities, dragons with specific meanings). Consult clients about intended meaning.
 - **Professional conduct:** Hong Kong is orderly. Studios expect professionalism.
 
+### ✅ Do's & ❌ Don'ts
+
+**Do's:**
+- **Do** have business cards ready. Hong Kong's professional culture — even in the arts — still values the card exchange. Turning up with nothing to hand over in a first meeting is a small but noticeable gap.
+- **Do** be prepared for tiny studio spaces. Hong Kong real estate is among the most expensive in the world. Many studios operate in compact units that would count as storage rooms elsewhere. Bring only what you actually need for a session.
+- **Do** have a local contact who speaks Cantonese. Even if your host studio speaks English, having a Cantonese-speaking contact in your corner — for logistics, emergencies, or just navigating the neighbourhood — is worth it.
+- **Do** accept tea if it's offered in a traditional studio setting. It's a genuine gesture of welcome and hospitality. Refusing without a reason can read as cold.
+- **Do** be flexible with appointment times around major local festivals — Chinese New Year, Ching Ming, the Hungry Ghost Festival. Studios may adjust hours or close. Build this into your scheduling.
+- **Do** be aware of lucky and unlucky numbers in client consultations. Many Hong Kong clients are mindful of numerology — 8 is very auspicious, 6 is good. Factor this in when discussing design counts or pricing.
+
+**Don'ts:**
+- **Don't** confuse Hong Kong with mainland China in conversation, custom, or assumption. The language is Cantonese, not Mandarin. The immigration system is separate. The culture and legal environment are distinct. Getting this wrong in front of a local is a quick way to lose goodwill.
+- **Don't** talk politics in the studio. The post-2020 environment in Hong Kong is sensitive. Unsolicited political commentary — on any side — creates tension and puts your host in an uncomfortable position. Keep the studio a neutral space.
+- **Don't** display large tattoos overtly in formal or conservative client-facing settings. While Hong Kong is cosmopolitan, some clients come from more traditional backgrounds and first impressions matter in a business context.
+- **Don't** expect European working hours. Hong Kong studios often run late into the evening — 11pm bookings are not unusual. Be prepared to adapt your schedule to local working patterns.
+- **Don't** use 4 in pricing, addresses, or scheduling if you can avoid it. The number 4 (四, *sei*) sounds like "death" in Cantonese and is widely considered unlucky. Pricing a session at HK$4,000 or HK$444 will make some clients uneasy — round up or adjust accordingly.
+
 ### 🤝 Finding Guest Spots
 
 - **Instagram:** Primary channel. HK studios are well-represented.
@@ -495,21 +1146,150 @@ Hong Kong is a free port with **essentially zero tariffs on most goods**. This i
 
 South Korea is in the middle of the biggest legal shift in the global tattoo industry right now. After 33 years of tattooing being classified as a medical procedure, the country has finally legalised it. The scene is exploding, and the opportunities for guest artists are growing fast.
 
-### ✈️ Visa & Work Permit Rules
+### ✈️ Immigration & Visa Guide
 
-**The legal revolution:** For 33 years (since a 1992 Supreme Court ruling), tattooing in South Korea was classified as a medical procedure. Only licensed medical doctors could legally tattoo. Artists faced up to 5 years in prison and fines of up to KRW 50 million (~$36,000). The law was under-enforced against Korean artists but presented significant risk for foreigners.
+South Korea is in the middle of the most significant legal transformation in this guide. The Tattooist Act — passed September 25, 2025, with a 195–0 vote — ended 33 years of tattooing being classified as a medical procedure. The implications for foreign guest artists are real but more nuanced than the headlines suggest. Let me break down what it actually means for you.
 
-**The Tattooist Act (September 2025):** South Korea's National Assembly passed the Tattooist Act on September 25, 2025, with a unanimous **195–0 vote**. The law legalises tattooing by non-medical personnel through a new government licensing system requiring annual hygiene education. It takes effect after a two-year grace period from promulgation by President Lee Jae Myung.
+#### Visa Options
 
-**Current status (April 2026):** The law is in its transition period. Korean artists are operating more openly than ever. But for foreign artists, the visa question is separate from the legalisation issue.
+| Visa Type | What It Is | Relevant for Tattoo Artists? |
+|---|---|---|
+| **Visa-free / Tourist (C-3)** | 90-day visa-free entry for most Western nationals | No paid work permitted |
+| **C-4-5 Short-Term Employment — Arts** | For paid creative work under 90 days, employer-sponsored | **Yes — the formal route for guest spots** |
+| **E-6-1 Arts and Entertainment** | Long-term (1–2 year) work visa for performing artists | For extended engagements |
+| **Working Holiday Visa (H-1)** | For eligible nationals under 30/35 | Permitted work — tattooing legally grey |
+| **E-2 / E-3 / E-7** | Other work visa categories | Not applicable |
 
-**Visa options:**
+**What a guest-spot tattoo artist actually needs:** For a formal arrangement, the **C-4-5 Short-Term Employment Visa for Arts** is the appropriate route. It covers paid temporary work under 90 days for performers, consultants, and creative professionals — tattooing now qualifies under the post-Tattooist Act framework, though the Ministry of Culture, Sports and Tourism's explicit guidance for foreign tattoo artists under the new law is still developing.
 
-- **C-4 Short-Term Employment Visa:** For paid temporary work under 90 days. Covers performers, consultants, creative professionals — tattoo artistry may qualify. Requires a sponsoring Korean company to provide an employment/performance contract. Processing: 5–14 business days at Korean embassy. **Cannot be obtained inside Korea** — apply from your home country.
-- **E-6 Cultural Arts Visa:** Longer-term (1+ year) for artists and performers. More extensive vetting.
-- **Tourist / K-ETA entry:** Most Western passport holders enter visa-free for 90 days. Doing paid work on tourist entry remains illegal, even with the new Tattooist Act.
+**What most artists use:** Visa-free entry (90 days for most Western nationals). During the current transition period (through approximately October 2027), the risk environment for foreign artists doing guest spots has declined meaningfully — though it has not disappeared.
 
-**Equipment customs caution:** Some customs officers during the transition period may question intentions when seeing tattoo equipment. A studio or convention invitation letter is highly advisable.
+**The K-ETA situation:** Currently, most eligible Western nationals enter without K-ETA (Korean Electronic Travel Authorization) due to an exemption running through **December 31, 2026**. From **January 1, 2027**, K-ETA becomes mandatory. Apply in advance at k-eta.go.kr — it's an online process that takes a few minutes and costs approximately USD 10. Don't leave this until the last minute.
+
+#### How to Apply
+
+**Visa-free entry (C-3):**
+- Eligible nationals (US, UK, EU, Australia, NZ, Canada, and many others) receive 90-day visa-free entry — currently without K-ETA through December 31, 2026
+- No advance application required during the K-ETA exemption period
+- From January 1, 2027: apply for K-ETA in advance at k-eta.go.kr
+
+**C-4-5 Short-Term Employment Visa — Arts (formal route):**
+
+1. Korean host studio obtains an **employment/performance recommendation letter** from the relevant government authority — typically the Ministry of Culture, Sports and Tourism (MCST) or the Korea Media Rating Board
+2. Studio prepares: employment contract, business registration certificate, tax documents, company profile
+3. You apply at the Korean embassy or consulate in your **home country** (cannot be obtained inside Korea) with:
+   - Passport (valid 6+ months)
+   - Completed visa application form
+   - Passport-sized photo
+   - Employment contract from the Korean studio
+   - Performance/employment recommendation letter from the government authority
+   - Portfolio demonstrating professional credibility
+   - CV/resume
+4. Processing: **2–4 weeks** at the Korean embassy
+5. Visa granted for the duration of the engagement plus 1 month, up to 90 days maximum
+
+**E-6-1 Arts and Entertainment Visa (for longer engagements):**
+- Same structure as C-4-5 but for stays over 90 days
+- Studio applies for a Visa Issuance Confirmation Certificate at the Korean immigration office
+- Additional studio requirements: at least 5 Korean employees, average annual sales of KRW 500 million+ over the last 3 years, no tax defaults
+- Valid for employment contract duration plus 1 month, up to 2 years; renewable
+- From 2026: E-6 visa holders must report workplace or income changes to HiKorea within 15 days; failure = KRW 1,000,000 fine
+
+#### Costs
+
+| Item | KRW | USD (approx.) |
+|---|---|---|
+| Visa-free entry | Free | — |
+| K-ETA (from Jan 1, 2027) | ~KRW 13,000 | ~$10 |
+| Tourist visa (if required by nationality) | KRW 34,000–80,000 | ~$25–60 |
+| C-4-5 visa | KRW 50,000–80,000 | ~$37–60 |
+| E-6-1 visa | Similar to C-4-5 | ~$37–60 |
+
+#### Processing Time
+
+- Visa-free entry: Immediate
+- K-ETA: Usually processed within 72 hours; apply a week before travel to be safe
+- C-4-5 / E-6-1: **2–4 weeks** at Korean embassy
+
+#### Length of Stay
+
+- **Visa-free (C-3):** 90 days for most eligible Western nationals
+- **K-ETA (from January 1, 2027):** Required for entry; applies for a 2-year validity period allowing multiple entries, each with the usual 90-day stay
+- **C-4-5:** Duration of engagement plus 1 month, up to 90 days maximum
+- **E-6-1:** Employment contract duration plus 1 month, up to 2 years; renewable
+
+#### Extensions
+
+- **Tourist/visa-free:** Extensions possible at a Korea Immigration Service (KIS) office before expiry, at the officer's discretion
+- **Important:** Exceeding your authorised stay in Korea may result in an **exit ban** — you cannot leave until the matter is formally resolved. Don't overstay
+- **E-6-1:** Apply for extension before expiry with evidence of continued qualifying employment
+
+#### Border Runs
+
+Korea doesn't have a border run culture. As a peninsula, all international travel is by air or sea (Japan, China, Macau, Southeast Asia). If you're doing a 90-day tourist stay and working a guest spot, you don't need to do anything — just leave before 90 days and you're fine. For longer arrangements, the appropriate visa category is the right answer, not gaming re-entry.
+
+#### Working Without Proper Visa — Actual Consequences
+
+Working without authorisation in Korea:
+
+- **Exit ban:** May be imposed preventing departure until the matter is resolved — an unusual and serious consequence compared to most countries
+- **Detention, fines, and deportation** with entry ban
+- **Historical context pre-Tattooist Act:** Under the old Medical Service Act, both the foreign artist and their Korean clients were technically operating illegally (tattooing restricted to licensed medical professionals). Foreign artists faced the same penalties as Korean artists: up to 5 years prison and KRW 50 million fines. Enforcement against foreign artists was sporadic but not zero
+- **Post-Tattooist Act (from October 2025):** The Medical Service Act violation for non-medical tattooing is being phased out during the transition. However, working for payment without appropriate visa authorisation remains a visa violation independently. The immigration law and the tattooing law are separate
+
+#### Entry Requirements
+
+- Passport valid for the **duration of your stay** (6 months validity recommended, though no specific requirement is formally stated)
+- Return or onward ticket
+- Proof of accommodation
+- Proof of sufficient funds — bank statement requirements relaxed for most nationalities as of February 2026, at least through December 2026
+- **K-ETA:** Currently exempt for eligible nationals through December 31, 2026. Mandatory from January 1, 2027 — apply at k-eta.go.kr
+
+#### Recent Changes (2025/2026)
+
+**The Tattooist Act — the headline change:**
+
+- **September 25, 2025:** National Assembly passes the Tattooist Act, 195 votes in favour, 7 abstentions
+- **October 28, 2025:** Formally promulgated — the two-year transition period begins from this date
+- **Full effect: approximately October 2027**
+
+What the Act does:
+- Legalises tattooing and semi-permanent makeup by non-medical professionals
+- Establishes a national licensing examination system (run by the Korea Health Personnel Licensing Examination Institute)
+- Requires licensed tattooists to complete mandatory annual hygiene and safety training
+- Mandates detailed record-keeping of each procedure (date, ink type and quantity, body area)
+- Prohibits tattooing minors without parental consent
+- Prohibits tattoo removal by non-medical professionals (remains medical-only)
+- Requires liability insurance for practising tattooists
+- Requires studios to register with local governments
+
+**National licensing exam timeline:**
+- Budget of KRW 635 million allocated in January 2026 for exam administration
+- First exam: **late 2027**
+- Transitional registration measures allow existing Korean practitioners to continue working through 2028 while the licensing system is established
+- **Foreign artist implications:** Licensing requirements are for Korean practitioners. What equivalency will be required of foreign guest artists working under a C-4-5 or E-6-1 visa is not yet officially defined
+
+**K-ETA update:**
+- K-ETA exemption extended through **December 31, 2026** for eligible nationals
+- K-ETA becomes mandatory from **January 1, 2027**
+
+**2026 workplace reporting requirements:**
+- E-6 and other work visa holders must report workplace or income changes to HiKorea within 15 days or face a KRW 1,000,000 fine — effective from January 2026
+
+#### The Reality for Guest-Spot Artists
+
+South Korea is the positive story of this guide right now, and the Tattooist Act is genuinely significant.
+
+For 33 years, every tattoo artist in Korea — Korean and foreign — was technically operating outside the law. The industry built itself into one of the most respected in the world despite that. Korean fine-line work and illustrative style are global benchmarks. The underground infrastructure meant studios were careful, private, and professionalised in ways that might not have happened with an open legal framework.
+
+The Tattooist Act changes the game. The risk environment for foreign artists doing guest spots has declined meaningfully since September 2025 — enforcement under the old Medical Service Act was already declining before the vote, and the passage of the Act removes the framework under which foreign artists could be prosecuted for the act of tattooing itself.
+
+What hasn't changed: working for payment without appropriate visa authorisation is still a separate legal issue. The Act legalised tattooing as an activity. It didn't create new visa pathways for foreign workers. The C-4-5 route exists but requires a sponsoring studio with the right government recommendation letter — which not every studio has sorted out yet. Most foreign artists working guest spots in Korea in 2026 are entering on visa-free tourist status.
+
+The practical risk calculation: it's lower than it's been in at least a decade, and it's still not zero. Enforcement against foreign guest artists specifically has always been less common than enforcement against unregistered Korean artists. Post-September 2025, with the transition underway, it's even less likely. But "less likely" is not "impossible," and the exit ban consequence is something to take seriously.
+
+My read for 2026 and into 2027: Korea is becoming one of the more accessible guest spot destinations in Asia. As the licensing framework comes into clearer definition and studios become more confident about hosting foreign artists openly, the formal C-4-5 route will become more established and practical. For now, most artists enter on tourist status, work their guest spot, and leave within the 90-day window. Know what you're doing. Book early (Korean artists are heavily booked), bring your credentials, and keep an eye on the K-ETA deadline at the end of 2026.
+
 
 ### 🧳 Bringing Your Equipment
 
@@ -569,6 +1349,23 @@ The Korea Tattoo Convention is the primary domestic event. Booth options: KRW 60
 - **Military context:** Korea has mandatory military service. Many tattooed Korean men conceal tattoos during service. Tattoos remain controversial in traditional and military-adjacent settings.
 - **Religious imagery:** Korea has significant Christian, Buddhist, and Confucian communities. Be thoughtful with religious symbols in designs.
 - **Overall trajectory:** Expect the environment to continue shifting toward openness over the 2026–2028 transition period.
+
+### ✅ Do's & ❌ Don'ts
+
+**Do's:**
+- **Do** use Instagram to find studios and build connections before you arrive. Korean tattoo artists are extremely active on the platform — it's not just marketing, it's how the industry operates. Follow, comment, and build a genuine presence before sliding into DMs.
+- **Do** bring cash in Korean Won (KRW). Many studios are cash-only, partly as a legacy of the previous legal environment where avoiding traceable transactions was practical. Don't assume card payment is available.
+- **Do** be understanding of the underground nature of the industry during its transition. Artists who spent years operating carefully out of necessity are now adapting to an open environment. Respect where they've come from.
+- **Do** learn a few Korean phrases — *annyeonghaseyo* (hello), *gamsahamnida* (thank you), *ije geugeo eolmaeyo?* (how much is that?) — even if your host studio speaks English. The effort is noticed.
+- **Do** document your credentials thoroughly. The new Tattooist Act requires Korean tattoo artists to register and complete annual hygiene training. As a foreign guest artist, arriving with a clear professional record — certificates, convention history, portfolio — positions you as someone operating to a standard.
+- **Do** stay current on the legal transition. The Tattooist Act passed in September 2025 and is in a two-year grace period. Rules around foreign artist licensing will likely develop during this period — check in with your host studio before each trip.
+
+**Don'ts:**
+- **Don't** reference the previous illegal status of tattooing in Korea insensitively or as a punchline. Many artists lived with real professional and legal risk for years. Acknowledge it if it comes up, but with respect.
+- **Don't** expect tipping. It's not customary in South Korea. Offering a tip to a Korean tattoo artist or studio staff can create confusion or mild awkwardness — the work is priced as a complete transaction.
+- **Don't** be surprised by very specific aesthetic preferences from Korean clients. Korean tattoo culture has developed highly defined style sensibilities — fine line, minimalist, illustrative, lettering. If a client has a clear vision, they likely mean it precisely. Don't try to push them toward your preferred style.
+- **Don't** share client names, reference photos, or finished tattoo photos without explicit, confirmed permission. Privacy is taken seriously in Korean culture, and the legacy of the industry operating discreetly has made confidentiality a strong norm.
+- **Don't** underestimate how fast the legal landscape is changing post-Tattooist Act 2025. Regulations that were true six months ago may already be outdated by the time you arrive. Build in a pre-trip check-in with your contact to verify the current state of play.
 
 ### 🤝 Finding Guest Spots
 
